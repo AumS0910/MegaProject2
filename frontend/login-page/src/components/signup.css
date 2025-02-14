@@ -1,0 +1,307 @@
+.signup-page-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  background: radial-gradient(circle at center, rgba(0, 0, 0, 0.4) 0%, rgba(0, 0, 0, 0.8) 100%);
+}
+
+.signup-box {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 2rem;
+  width: 1100px;
+  min-height: 700px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  transform: translateY(20px);
+  opacity: 0;
+  animation: fadeInUp 0.8s ease forwards;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.signup-content {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 1rem;
+}
+
+.watermark {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) rotate(-30deg);
+  font-size: 120px;
+  font-weight: 900;
+  color: rgba(167, 127, 17, 0.3);
+  white-space: nowrap;
+  text-transform: uppercase;
+  pointer-events: none;
+  z-index: 0;
+  letter-spacing: 15px;
+  animation: watermarkPulse 4s infinite alternate;
+  font-family: 'Arial Black', sans-serif;
+  width: 100%;
+  text-align: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+@keyframes watermarkPulse {
+  from { opacity: 0.25; }
+  to { opacity: 0.35; }
+}
+
+.signup-title {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  color: #a77f11;
+  margin: 0 0 2rem 0;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  animation: titleGlow 2s infinite alternate;
+  position: relative;
+  z-index: 2;
+  user-select: none;
+  letter-spacing: 2px;
+}
+
+.signup-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.input-row {
+  display: flex;
+  gap: 1.5rem;
+  width: 100%;
+}
+
+.input-group {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  opacity: 0;
+  transform: translateY(20px);
+  animation: slideUp 0.5s ease forwards;
+}
+
+@keyframes slideUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.input-group:nth-child(1) { animation-delay: 0.1s; }
+.input-group:nth-child(2) { animation-delay: 0.2s; }
+.input-group:nth-child(3) { animation-delay: 0.3s; }
+.input-group:nth-child(4) { animation-delay: 0.4s; }
+.input-group:nth-child(5) { animation-delay: 0.5s; }
+
+.signup-label {
+  color: #a77f11;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.signup-input {
+  width: 100%;
+  padding: 12px 15px;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(167, 127, 17, 0.3);
+  border-radius: 8px;
+  color: #a77f11;
+  font-size: 1rem;
+  transition: all 0.3s ease;
+}
+
+.signup-input::placeholder {
+  color: rgba(167, 127, 17, 0.5);
+}
+
+.signup-input:focus {
+  outline: none;
+  border-color: #a77f11;
+  background: rgba(255, 255, 255, 0.15);
+  box-shadow: 0 0 10px rgba(167, 127, 17, 0.2);
+}
+
+select.signup-input {
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath fill='%23a77f11' d='M6 8L1 3h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 15px center;
+  padding-right: 40px;
+}
+
+.signup-button {
+  width: 100%;
+  padding: 14px;
+  margin-top: 1rem;
+  font-size: 16px;
+  font-weight: 600;
+  color: #a77f11;
+  background: linear-gradient(45deg, transparent 5%, rgba(167, 127, 17, 0.1) 50%, transparent 95%);
+  border: 1px solid rgba(167, 127, 17, 0.5);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.signup-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(167, 127, 17, 0.2),
+    transparent
+  );
+  transition: 0.5s;
+}
+
+.signup-button:hover::before {
+  left: 100%;
+}
+
+.signup-button:hover {
+  background: rgba(167, 127, 17, 0.2);
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(167, 127, 17, 0.2);
+}
+
+.signup-divider {
+  width: 100%;
+  text-align: center;
+  margin: 2rem 0;
+  position: relative;
+  color: #a77f11;
+}
+
+.signup-divider::before,
+.signup-divider::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  width: 45%;
+  height: 1px;
+  background: rgba(167, 127, 17, 0.3);
+}
+
+.signup-divider::before { left: 0; }
+.signup-divider::after { right: 0; }
+
+.signup-divider span {
+  background: transparent;
+  padding: 0 10px;
+  font-size: 0.9rem;
+  position: relative;
+  z-index: 1;
+}
+
+.social-signup-buttons {
+  display: flex;
+  gap: 1rem;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.social-signup-button {
+  flex: 1;
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  border: 1px solid rgba(167, 127, 17, 0.3);
+  border-radius: 8px;
+  background: transparent;
+  color: #a77f11;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.social-signup-button:hover {
+  background: rgba(167, 127, 17, 0.1);
+  transform: translateY(-2px);
+}
+
+.social-icon {
+  font-size: 1.2rem;
+}
+
+.login-link {
+  color: rgba(167, 127, 17, 0.8);
+  font-size: 0.9rem;
+}
+
+.login-link span {
+  color: #a77f11;
+  cursor: pointer;
+  font-weight: 600;
+  text-decoration: underline;
+  transition: all 0.3s ease;
+}
+
+.login-link span:hover {
+  color: #8b6a0e;
+}
+
+.error-message {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  color: #721c24;
+  background: rgba(248, 215, 218, 0.9);
+  border: 1px solid #f5c6cb;
+  border-radius: 8px;
+  text-align: center;
+  animation: fadeIn 0.3s ease;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes titleGlow {
+  from { text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3); }
+  to { text-shadow: 0 0 15px rgba(167, 127, 17, 0.5); }
+}

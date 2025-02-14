@@ -1,0 +1,8 @@
+2024-12-23 00:16:55,148 - __main__ - INFO - Starting brochure generation task task_1734893215 for Taj Mahal Palace Hotel
+2024-12-23 00:16:57,242 - __main__ - ERROR - Error in task task_1734893215: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-23 00:17:39,837 - __main__ - INFO - Starting brochure generation task task_1734893259 for Taj Mahal Palace Hotel
+2024-12-23 00:17:41,895 - __main__ - ERROR - Error in task task_1734893259: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-23 00:25:36,687 - __main__ - INFO - Starting brochure generation task task_1734893736 for Taj Mahal Palace Hotel
+2024-12-23 00:25:49,342 - __main__ - ERROR - Error in task task_1734893736: [Errno 2] No such file or directory: 'generated_images/Taj Mahal Palace Hotel_exterior.png'
+2024-12-23 00:26:29,276 - __main__ - INFO - Starting brochure generation task task_1734893789 for Taj Mahal Palace Hotel
+2024-12-23 00:26:43,529 - __main__ - ERROR - Error in task task_1734893789: [Errno 2] No such file or directory: 'generated_images/Taj Mahal Palace Hotel_exterior.png'

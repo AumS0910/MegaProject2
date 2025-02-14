@@ -1,0 +1,1734 @@
+2024-12-14 14:05:48,376 - __main__ - INFO - Starting brochure generation task task_1734165348 for Taj Mahal Palace Hotel
+2024-12-23 00:42:13,794 - __main__ - INFO - Starting brochure generation task task_1734894733 for Azure Paradise Resort
+2024-12-23 01:02:50,389 - __main__ - INFO - Starting brochure generation task task_1734895970 for Serenity Bay Resort & Spa
+2024-12-23 01:09:37,410 - __main__ - INFO - Starting brochure generation task task_1734896377 for Serenity Bay Resort & Spa
+2024-12-23 19:35:37,480 - __main__ - INFO - Starting brochure generation task task_1734962737 for Azure Paradise Reosrt
+2024-12-23 19:39:13,654 - __main__ - INFO - Starting brochure generation task task_1734962953 for Azure Paradise Reosrt
+2024-12-23 19:46:23,675 - __main__ - INFO - Starting brochure generation task task_1734963383 for Azure Paradise Reosrt
+2024-12-23 19:50:44,045 - __main__ - INFO - Starting brochure generation task task_1734963644 for Azure Paradise Resort
+2024-12-23 19:52:59,600 - __main__ - INFO - Starting brochure generation task task_1734963779 for Azure Paradise Resort
+2024-12-23 19:56:22,237 - __main__ - INFO - Starting brochure generation task task_1734963982 for Azure Paradise Resort
+2024-12-23 19:58:47,797 - __main__ - INFO - Starting brochure generation task task_1734964127 for Azure Paradise Resort
+2024-12-23 20:06:23,720 - __main__ - INFO - Starting brochure generation task task_1734964583 for Azure Paradise Resort
+2024-12-23 20:11:16,026 - __main__ - INFO - Starting brochure generation task task_1734964876 for Azure Paradise Resort
+2024-12-23 20:15:38,637 - __main__ - INFO - Starting brochure generation task task_1734965138 for Azure Paradise Resort
+2024-12-23 20:20:54,682 - __main__ - INFO - Starting brochure generation task task_1734965454 for Azure Paradise Resort
+2024-12-23 20:27:38,702 - __main__ - INFO - Starting brochure generation task task_1734965858 for Azure Paradise Resort
+2024-12-23 20:30:24,522 - __main__ - INFO - Starting brochure generation task task_1734966024 for Azure Paradise Resort
+2024-12-23 20:32:08,111 - __main__ - INFO - Starting brochure generation task task_1734966128 for Azure Paradise Resort
+2024-12-23 20:34:57,310 - __main__ - INFO - Starting brochure generation task task_1734966297 for Azure Paradise Resort
+2024-12-23 20:37:14,016 - __main__ - INFO - Starting brochure generation task task_1734966434 for Azure Paradise Resort
+2024-12-23 20:44:06,469 - __main__ - ERROR - Error generating brochure: SinglePageBrochureGenerator.__init__() missing 2 required positional arguments: 'hotel_name' and 'location'
+2024-12-24 00:06:03,640 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'custom_prompts'
+2024-12-24 00:49:16,760 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 00:53:01,038 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 10:48:06,969 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 10:51:08,698 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 10:55:19,385 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 10:59:28,452 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:03:15,246 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:05:56,053 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:09:19,979 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:13:13,765 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:19:28,696 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:23:06,643 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:27:11,261 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:32:11,807 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:35:19,487 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:41:10,007 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:44:58,066 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:48:41,291 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'contact_email'
+2024-12-24 11:56:17,410 - __main__ - INFO - Starting brochure generation task task_1735021577 for Azure Paradise Resort
+2024-12-24 11:56:17,431 - __main__ - ERROR - Error in task task_1735021577: unhashable type: 'set'
+2024-12-24 12:03:41,736 - __main__ - INFO - Starting brochure generation task task_1735022021 for Azure Paradise Resort
+2024-12-24 12:03:41,755 - __main__ - ERROR - Error in task task_1735022021: unhashable type: 'set'
+2024-12-24 12:05:05,399 - __main__ - INFO - Starting brochure generation task task_1735022105 for Azure Paradise Resort
+2024-12-24 12:05:05,419 - __main__ - ERROR - Error in task task_1735022105: unhashable type: 'set'
+2024-12-24 12:06:04,414 - __main__ - INFO - Starting brochure generation task task_1735022164 for Azure Paradise Resort
+2024-12-24 12:06:04,438 - __main__ - ERROR - Error in task task_1735022164: unhashable type: 'set'
+2024-12-24 12:07:09,165 - __main__ - INFO - Starting brochure generation task task_1735022229 for Azure Paradise Resort
+2024-12-24 12:07:09,189 - __main__ - ERROR - Error in task task_1735022229: unhashable type: 'set'
+2024-12-24 12:26:40,031 - __main__ - INFO - Starting brochure generation task task_1735023400 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:41,360 - __main__ - INFO - Starting brochure generation task task_1735023401 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,009 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,205 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,383 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,541 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,708 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:43,875 - __main__ - INFO - Starting brochure generation task task_1735023403 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:44,045 - __main__ - INFO - Starting brochure generation task task_1735023404 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:44,221 - __main__ - INFO - Starting brochure generation task task_1735023404 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:44,400 - __main__ - INFO - Starting brochure generation task task_1735023404 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:44,723 - __main__ - INFO - Starting brochure generation task task_1735023404 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:44,920 - __main__ - INFO - Starting brochure generation task task_1735023404 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:45,087 - __main__ - INFO - Starting brochure generation task task_1735023405 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:45,341 - __main__ - INFO - Starting brochure generation task task_1735023405 for The Celestial Palace Resort & Spa
+2024-12-24 12:26:51,659 - __main__ - ERROR - Error in task task_1735023404: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,662 - __main__ - ERROR - Error in task task_1735023404: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,664 - __main__ - ERROR - Error in task task_1735023404: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,670 - __main__ - ERROR - Error in task task_1735023404: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,671 - __main__ - ERROR - Error in task task_1735023404: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,671 - __main__ - ERROR - Error in task task_1735023405: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,674 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,674 - __main__ - ERROR - Error in task task_1735023400: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,675 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,677 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,678 - __main__ - ERROR - Error in task task_1735023405: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,680 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,681 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,681 - __main__ - ERROR - Error in task task_1735023401: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:26:51,681 - __main__ - ERROR - Error in task task_1735023403: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:27:07,679 - __main__ - INFO - Starting brochure generation task task_1735023427 for The Celestial Palace Resort & Spa
+2024-12-24 12:27:07,706 - __main__ - ERROR - Error in task task_1735023427: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-24 12:29:40,069 - __main__ - INFO - Starting brochure generation task task_1735023580 for The Celestial Palace Resort & Spa
+2024-12-24 14:11:32,535 - __main__ - INFO - Starting brochure generation task task_1735029692 for The Celestial Palace Resort & Spa
+2024-12-24 14:13:14,649 - __main__ - ERROR - Error in task task_1735029692: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:19:55,458 - __main__ - INFO - Starting brochure generation task task_1735030195 for The Celestial Palace Resort & Spa
+2024-12-24 14:21:29,464 - __main__ - ERROR - Error in task task_1735030195: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:24:08,770 - __main__ - INFO - Starting brochure generation task task_1735030448 for The Celestial Palace Resort & Spa
+2024-12-24 14:25:44,270 - __main__ - ERROR - Error in task task_1735030448: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:27:00,468 - __main__ - INFO - Starting brochure generation task task_1735030620 for The Celestial Palace Resort & Spa
+2024-12-24 14:27:25,958 - __main__ - ERROR - Error in task task_1735030620: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:31:29,840 - __main__ - INFO - Starting brochure generation task task_1735030889 for The Celestial Palace Resort & Spa
+2024-12-24 14:31:56,361 - __main__ - ERROR - Error in task task_1735030889: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:33:56,419 - __main__ - INFO - Starting brochure generation task task_1735031036 for The Celestial Palace Resort & Spa
+2024-12-24 14:34:21,563 - __main__ - ERROR - Error in task task_1735031036: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:51:55,853 - __main__ - INFO - Starting brochure generation task task_1735032115 for The Celestial Palace Resort & Spa
+2024-12-24 14:52:21,387 - __main__ - ERROR - Error in task task_1735032115: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 14:59:56,049 - __main__ - INFO - Starting brochure generation task task_1735032596 for The Celestial Palace Resort & Spa
+2024-12-24 15:00:21,834 - __main__ - ERROR - Error in task task_1735032596: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 15:07:05,903 - __main__ - INFO - Starting brochure generation task task_1735033025 for The Celestial Palace Resort & Spa
+2024-12-24 15:07:31,335 - __main__ - ERROR - Error in task task_1735033025: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 15:08:08,798 - __main__ - INFO - Starting brochure generation task task_1735033088 for The Celestial Palace Resort & Spa
+2024-12-24 15:08:33,883 - __main__ - ERROR - Error in task task_1735033088: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-24 15:18:11,482 - __main__ - INFO - Starting brochure generation task task_1735033691 for The Celestial Palace Resort & Spa
+2024-12-24 15:18:36,903 - __main__ - ERROR - Error in task task_1735033691: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 09:00:16,898 - __main__ - INFO - Starting brochure generation task task_1735270216 for Unknown Hotel
+2024-12-27 09:03:50,673 - __main__ - INFO - Starting brochure generation task task_1735270430 for The Celestial Palace Resort & Spa
+2024-12-27 09:07:54,769 - __main__ - INFO - Starting brochure generation task task_1735270674 for The Celestial Palace Resort & Spa
+2024-12-27 09:15:30,181 - __main__ - INFO - Starting brochure generation task task_1735271130 for The Celestial Palace Resort & Spa
+2024-12-27 09:15:55,577 - __main__ - ERROR - Error in task task_1735271130: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 09:40:42,450 - __main__ - INFO - Starting brochure generation task task_1735272642 for The Celestial Palace Resort & Spa
+2024-12-27 09:45:31,078 - __main__ - INFO - Starting brochure generation task task_1735272931 for The Celestial Palace Resort & Spa
+2024-12-27 09:45:56,170 - __main__ - ERROR - Error in task task_1735272931: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 09:53:42,398 - __main__ - INFO - Starting brochure generation task task_1735273422 for The Celestial Palace Resort & Spa
+2024-12-27 09:54:07,236 - __main__ - ERROR - Error in task task_1735273422: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 09:58:07,662 - __main__ - INFO - Starting brochure generation task task_1735273687 for The Celestial Palace Resort & Spa
+2024-12-27 10:19:16,748 - __main__ - INFO - Starting brochure generation task task_1735274956 for The Celestial Palace Resort & Spa
+2024-12-27 10:19:43,414 - __main__ - ERROR - Error in task task_1735274956: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:22:53,865 - __main__ - INFO - Starting brochure generation task task_1735275173 for The Celestial Palace Resort & Spa
+2024-12-27 10:23:21,814 - __main__ - ERROR - Error in task task_1735275173: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:26:14,326 - __main__ - INFO - Starting brochure generation task task_1735275374 for The Celestial Palace Resort & Spa
+2024-12-27 10:26:40,131 - __main__ - ERROR - Error in task task_1735275374: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:29:28,193 - __main__ - INFO - Starting brochure generation task task_1735275568 for The Celestial Palace Resort & Spa
+2024-12-27 10:29:54,169 - __main__ - ERROR - Error in task task_1735275568: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:45:19,246 - __main__ - INFO - Starting brochure generation task task_1735276519 for The Celestial Palace Resort & Spa
+2024-12-27 10:45:43,813 - __main__ - ERROR - Error in task task_1735276519: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:49:26,327 - __main__ - INFO - Starting brochure generation task task_1735276766 for The Celestial Palace Resort & Spa
+2024-12-27 10:49:50,389 - __main__ - ERROR - Error in task task_1735276766: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:50:25,196 - __main__ - INFO - Starting brochure generation task task_1735276825 for The Celestial Palace Resort & Spa
+2024-12-27 10:50:53,533 - __main__ - ERROR - Error in task task_1735276825: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:51:13,886 - __main__ - INFO - Starting brochure generation task task_1735276873 for The Celestial Palace Resort & Spa
+2024-12-27 10:51:38,020 - __main__ - ERROR - Error in task task_1735276873: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:54:02,368 - __main__ - INFO - Starting brochure generation task task_1735277042 for The Celestial Palace Resort & Spa
+2024-12-27 10:54:27,652 - __main__ - ERROR - Error in task task_1735277042: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:57:09,272 - __main__ - INFO - Starting brochure generation task task_1735277229 for The Celestial Palace Resort & Spa
+2024-12-27 10:57:35,260 - __main__ - ERROR - Error in task task_1735277229: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 10:58:52,959 - __main__ - INFO - Starting brochure generation task task_1735277332 for The Celestial Palace Resort & Spa
+2024-12-27 10:59:50,131 - __main__ - ERROR - Error in task task_1735277332: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:01:41,900 - __main__ - INFO - Starting brochure generation task task_1735277501 for The Celestial Palace Resort & Spa
+2024-12-27 11:02:31,572 - __main__ - ERROR - Error in task task_1735277501: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:04:54,545 - __main__ - INFO - Starting brochure generation task task_1735277694 for The Celestial Palace Resort & Spa
+2024-12-27 11:05:20,807 - __main__ - ERROR - Error in task task_1735277694: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:17:12,688 - __main__ - INFO - Starting brochure generation task task_1735278432 for The Celestial Palace Resort & Spa
+2024-12-27 11:17:38,104 - __main__ - ERROR - Error in task task_1735278432: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:19:58,253 - __main__ - INFO - Starting brochure generation task task_1735278598 for The Celestial Palace Resort & Spa
+2024-12-27 11:20:24,869 - __main__ - ERROR - Error in task task_1735278598: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:23:04,570 - __main__ - INFO - Starting brochure generation task task_1735278784 for The Celestial Palace Resort & Spa
+2024-12-27 11:23:29,444 - __main__ - ERROR - Error in task task_1735278784: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:25:49,523 - __main__ - INFO - Starting brochure generation task task_1735278949 for The Celestial Palace Resort & Spa
+2024-12-27 11:26:14,794 - __main__ - ERROR - Error in task task_1735278949: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:28:51,234 - __main__ - INFO - Starting brochure generation task task_1735279131 for The Celestial Palace Resort & Spa
+2024-12-27 11:29:18,286 - __main__ - ERROR - Error in task task_1735279131: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:34:05,343 - __main__ - INFO - Starting brochure generation task task_1735279445 for The Celestial Palace Resort & Spa
+2024-12-27 11:34:32,200 - __main__ - ERROR - Error in task task_1735279445: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:38:29,939 - __main__ - INFO - Starting brochure generation task task_1735279709 for The Celestial Palace Resort & Spa
+2024-12-27 11:38:56,546 - __main__ - ERROR - Error in task task_1735279709: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:42:22,409 - __main__ - INFO - Starting brochure generation task task_1735279942 for The Celestial Palace Resort & Spa
+2024-12-27 11:42:49,194 - __main__ - ERROR - Error in task task_1735279942: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:45:02,833 - __main__ - INFO - Starting brochure generation task task_1735280102 for The Celestial Palace Resort & Spa
+2024-12-27 11:45:30,556 - __main__ - ERROR - Error in task task_1735280102: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:50:16,701 - __main__ - INFO - Starting brochure generation task task_1735280308 for The Celestial Palace Resort & Spa
+2024-12-27 11:50:18,778 - __main__ - ERROR - Error in task task_1735280308: 'SinglePageBrochureGenerator' object has no attribute 'custom_prompts'
+2024-12-27 11:51:42,824 - __main__ - INFO - Starting brochure generation task task_1735280502 for The Celestial Palace Resort & Spa
+2024-12-27 11:52:07,423 - __main__ - ERROR - Error in task task_1735280502: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:54:58,190 - __main__ - INFO - Starting brochure generation task task_1735280698 for The Celestial Palace Resort & Spa
+2024-12-27 11:55:21,565 - __main__ - ERROR - Error in task task_1735280698: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:57:44,072 - __main__ - INFO - Starting brochure generation task task_1735280864 for The Celestial Palace Resort & Spa
+2024-12-27 11:58:07,824 - __main__ - ERROR - Error in task task_1735280864: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 11:59:26,659 - __main__ - INFO - Starting brochure generation task task_1735280966 for The Celestial Palace Resort & Spa
+2024-12-27 11:59:51,016 - __main__ - ERROR - Error in task task_1735280966: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:01:13,159 - __main__ - INFO - Starting brochure generation task task_1735281073 for The Celestial Palace Resort & Spa
+2024-12-27 12:01:37,255 - __main__ - ERROR - Error in task task_1735281073: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:03:59,867 - __main__ - INFO - Starting brochure generation task task_1735281239 for The Celestial Palace Resort & Spa
+2024-12-27 12:04:22,521 - __main__ - ERROR - Error in task task_1735281239: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:06:03,531 - __main__ - INFO - Starting brochure generation task task_1735281363 for The Celestial Palace Resort & Spa
+2024-12-27 12:06:27,075 - __main__ - ERROR - Error in task task_1735281363: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:08:39,023 - __main__ - INFO - Starting brochure generation task task_1735281519 for The Celestial Palace Resort & Spa
+2024-12-27 12:09:03,108 - __main__ - ERROR - Error in task task_1735281519: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:11:04,276 - __main__ - INFO - Starting brochure generation task task_1735281664 for The Celestial Palace Resort & Spa
+2024-12-27 12:11:26,677 - __main__ - ERROR - Error in task task_1735281664: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:15:49,568 - __main__ - INFO - Starting brochure generation task task_1735281949 for The Celestial Palace Resort & Spa
+2024-12-27 12:16:13,155 - __main__ - ERROR - Error in task task_1735281949: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:19:29,403 - __main__ - INFO - Starting brochure generation task task_1735282169 for The Celestial Palace Resort & Spa
+2024-12-27 12:19:54,178 - __main__ - ERROR - Error in task task_1735282169: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:22:47,836 - __main__ - INFO - Starting brochure generation task task_1735282367 for The Celestial Palace Resort & Spa
+2024-12-27 12:23:12,142 - __main__ - ERROR - Error in task task_1735282367: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:26:32,196 - __main__ - INFO - Starting brochure generation task task_1735282475 for The Celestial Palace Resort & Spa
+2024-12-27 12:26:32,198 - __main__ - INFO - Starting brochure generation task task_1735282592 for The Celestial Palace Resort & Spa
+2024-12-27 12:26:34,271 - __main__ - ERROR - Error in task task_1735282475: 'SinglePageBrochureGenerator' object has no attribute 'custom_prompts'
+2024-12-27 12:26:34,271 - __main__ - ERROR - Error in task task_1735282592: 'SinglePageBrochureGenerator' object has no attribute 'custom_prompts'
+2024-12-27 12:27:23,182 - __main__ - INFO - Starting brochure generation task task_1735282643 for The Celestial Palace Resort & Spa
+2024-12-27 12:27:46,867 - __main__ - ERROR - Error in task task_1735282643: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:30:33,247 - __main__ - INFO - Starting brochure generation task task_1735282833 for The Celestial Palace Resort & Spa
+2024-12-27 12:30:59,159 - __main__ - ERROR - Error in task task_1735282833: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:32:23,881 - __main__ - INFO - Starting brochure generation task task_1735282943 for The Celestial Palace Resort & Spa
+2024-12-27 12:32:48,815 - __main__ - ERROR - Error in task task_1735282943: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:34:56,486 - __main__ - INFO - Starting brochure generation task task_1735283096 for The Celestial Palace Resort & Spa
+2024-12-27 12:35:21,292 - __main__ - ERROR - Error in task task_1735283096: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:36:47,094 - __main__ - INFO - Starting brochure generation task task_1735283207 for The Celestial Palace Resort & Spa
+2024-12-27 12:37:12,940 - __main__ - ERROR - Error in task task_1735283207: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:38:40,544 - __main__ - INFO - Starting brochure generation task task_1735283320 for The Celestial Palace Resort & Spa
+2024-12-27 12:39:07,416 - __main__ - ERROR - Error in task task_1735283320: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:39:52,109 - __main__ - INFO - Starting brochure generation task task_1735283392 for The Celestial Palace Resort & Spa
+2024-12-27 12:40:19,612 - __main__ - ERROR - Error in task task_1735283392: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:41:58,000 - __main__ - INFO - Starting brochure generation task task_1735283517 for The Celestial Palace Resort & Spa
+2024-12-27 12:42:24,253 - __main__ - ERROR - Error in task task_1735283517: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 12:43:59,005 - __main__ - INFO - Starting brochure generation task task_1735283610 for The Celestial Palace Resort & Spa
+2024-12-27 12:44:24,495 - __main__ - ERROR - Error in task task_1735283610: [Errno 13] Permission denied: 'generated_brochures/Celestial Palace Resort & Spa_full_bleed_brochure.pdf'
+2024-12-27 13:30:38,529 - api.brochure_api - INFO - Starting brochure generation task e9554405-54ad-47c8-ad85-478c2fd80d78
+2024-12-27 13:30:41,270 - api.brochure_api - ERROR - Error in brochure generation task e9554405-54ad-47c8-ad85-478c2fd80d78: SinglePageBrochureGenerator.generate_brochure() takes 1 positional argument but 2 were given
+2024-12-27 13:32:32,391 - api.brochure_api - INFO - Starting brochure generation task 7c3e082f-7997-4877-849e-40f0934d1f67
+2024-12-27 13:32:54,460 - api.brochure_api - ERROR - Error in brochure generation task 7c3e082f-7997-4877-849e-40f0934d1f67: 'SinglePageBrochureGenerator' object has no attribute 'save_as_pdf'
+2024-12-27 13:34:27,242 - api.brochure_api - INFO - Starting brochure generation task 043d875a-7eb6-470e-932b-d251c15cffb4
+2024-12-27 13:34:29,289 - api.brochure_api - ERROR - Error in brochure generation task 043d875a-7eb6-470e-932b-d251c15cffb4: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-27 13:40:38,067 - __main__ - INFO - Starting brochure generation task 9426f0d7-f568-4317-924b-69e6c9e50dd9
+2024-12-27 13:40:57,930 - __main__ - ERROR - Error in brochure generation task 9426f0d7-f568-4317-924b-69e6c9e50dd9: 'SinglePageBrochureGenerator' object has no attribute 'save_as_pdf'
+2024-12-27 13:50:11,017 - __main__ - INFO - Starting brochure generation task 5c52d9ee-432b-41b8-afe2-aab2e04ba300
+2024-12-27 13:50:32,411 - __main__ - ERROR - Error in brochure generation task 5c52d9ee-432b-41b8-afe2-aab2e04ba300: 'SinglePageBrochureGenerator' object has no attribute 'save_as_pdf'
+2024-12-27 13:57:22,816 - __main__ - INFO - Starting brochure generation task task_1735288042 for The Grand Meridian Resort
+2024-12-27 14:24:30,238 - asyncio - ERROR - Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\asyncio\events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+2024-12-27 19:18:31,290 - __main__ - ERROR - Error in task task_1735307311: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:21:22,125 - __main__ - ERROR - Error in task task_1735307482: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:26:14,002 - __main__ - ERROR - Error in task task_1735307774: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:28:00,239 - __main__ - ERROR - Error in task task_1735307880: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:29:10,395 - __main__ - ERROR - Error in task task_1735307950: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:31:25,571 - __main__ - ERROR - Error in task task_1735308085: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:32:19,902 - __main__ - ERROR - Error in task task_1735308139: 'BrochureRequest' object has no attribute 'hotel_name'
+2024-12-27 19:45:34,623 - uvicorn.error - INFO - Started server process [11652]
+2024-12-27 19:45:34,624 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 19:45:34,625 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 19:45:34,625 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 19:47:03,313 - __main__ - INFO - Starting brochure generation task task_1735309023
+2024-12-27 19:47:11,454 - __main__ - ERROR - Error in task task_1735309023: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 19:52:16,829 - __main__ - INFO - Starting brochure generation task task_1735309336
+2024-12-27 19:52:23,097 - __main__ - ERROR - Error in task task_1735309336: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 19:56:25,514 - __main__ - INFO - Starting brochure generation task task_1735309585
+2024-12-27 19:56:32,872 - __main__ - ERROR - Error in task task_1735309585: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 19:59:21,104 - __main__ - INFO - Starting brochure generation task task_1735309761
+2024-12-27 19:59:28,521 - __main__ - ERROR - Error in task task_1735309761: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 20:04:18,742 - __main__ - INFO - Starting brochure generation task task_1735310058
+2024-12-27 20:04:26,565 - __main__ - ERROR - Error in task task_1735310058: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 20:26:44,818 - uvicorn.error - INFO - Shutting down
+2024-12-27 20:26:44,926 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 20:26:44,927 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 20:26:44,928 - uvicorn.error - INFO - Finished server process [11652]
+2024-12-27 20:27:03,685 - uvicorn.error - INFO - Started server process [17044]
+2024-12-27 20:27:03,706 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 20:27:03,706 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 20:27:03,707 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 20:27:43,947 - __main__ - INFO - Starting brochure generation task task_1735311463 for The Create A Brochure For The Grand Palace Hotel In Paris Featuring Luxury Suites
+2024-12-27 20:27:43,948 - __main__ - ERROR - Error in task task_1735311463: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 20:31:32,914 - uvicorn.error - INFO - Shutting down
+2024-12-27 20:31:33,020 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 20:31:33,021 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 20:31:33,022 - uvicorn.error - INFO - Finished server process [17044]
+2024-12-27 20:31:46,558 - uvicorn.error - INFO - Started server process [25108]
+2024-12-27 20:31:46,561 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 20:31:46,561 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 20:31:46,562 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 20:38:14,642 - __main__ - INFO - Starting brochure generation task task_1735312094 for The Create A Brochure For The Grand Palace Hotel In Paris Featuring Luxury Suites
+2024-12-27 20:38:33,187 - __main__ - ERROR - Error in task task_1735312094: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 20:42:43,896 - uvicorn.error - INFO - Shutting down
+2024-12-27 20:42:44,009 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 20:42:44,010 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 20:42:44,010 - uvicorn.error - INFO - Finished server process [25108]
+2024-12-27 20:43:04,341 - uvicorn.error - INFO - Started server process [26268]
+2024-12-27 20:43:04,342 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 20:43:04,342 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 20:43:04,343 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 20:43:56,686 - __main__ - INFO - Starting brochure generation task task_1735312436 for The Grand Meridian Resort
+2024-12-27 20:50:17,272 - __main__ - INFO - Starting brochure generation task task_1735312817 for The Grand Meridian Resort
+2024-12-27 20:56:29,218 - __main__ - INFO - Starting brochure generation task task_1735313189 for The Grand Meridian Resort
+2024-12-27 20:56:59,745 - __main__ - ERROR - Error in task task_1735313189: [Errno 13] Permission denied: 'generated_brochures/Grand Meridian Resort_full_bleed_brochure.pdf'
+2024-12-27 20:59:20,725 - __main__ - INFO - Starting brochure generation task task_1735313360 for The Grand Meredian Resort
+2024-12-27 21:05:13,777 - __main__ - INFO - Starting brochure generation task task_1735313713 for The Grand Meridian Resort
+2024-12-27 21:09:53,804 - __main__ - INFO - Starting brochure generation task task_1735313993 for Azure Paradise Resort
+2024-12-27 21:14:22,469 - __main__ - INFO - Starting brochure generation task task_1735314262 for Azure Paradise Resort
+2024-12-27 21:17:50,942 - __main__ - INFO - Starting brochure generation task task_1735314470 for Azure Paradise Resort
+2024-12-27 21:21:24,687 - uvicorn.error - INFO - Shutting down
+2024-12-27 21:21:24,796 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 21:21:24,797 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 21:21:24,798 - uvicorn.error - INFO - Finished server process [26268]
+2024-12-27 21:21:43,472 - uvicorn.error - INFO - Started server process [25336]
+2024-12-27 21:21:43,473 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:21:43,473 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:21:43,474 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 21:24:55,935 - uvicorn.error - INFO - Started server process [4240]
+2024-12-27 21:24:55,937 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:24:55,937 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:24:55,938 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 21:25:31,547 - __main__ - INFO - Starting brochure generation task task_1735314931 for Azure Paradise Resort
+2024-12-27 21:25:52,875 - __main__ - ERROR - Error in brochure generation task task_1735314931: Failed to generate brochure: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 21:27:08,231 - __main__ - INFO - Starting brochure generation task task_1735315028 for Azure Paradise Resort
+2024-12-27 21:27:38,542 - __main__ - ERROR - Error in brochure generation task task_1735315028: Failed to generate brochure: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 21:35:20,399 - __main__ - INFO - Starting brochure generation task task_1735315520 for Azure Paradise resort
+2024-12-27 21:35:59,203 - __main__ - ERROR - Error in brochure generation task task_1735315520: Failed to generate brochure: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 21:38:44,721 - uvicorn.error - INFO - Started server process [27196]
+2024-12-27 21:38:44,721 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:38:44,721 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:38:44,722 - uvicorn.error - ERROR - [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8004): only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-12-27 21:38:44,722 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 21:38:44,722 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 21:39:17,645 - __main__ - INFO - Starting brochure generation task task_1735315757 for Azure Paradise Resort
+2024-12-27 21:39:52,386 - __main__ - ERROR - Error in brochure generation task task_1735315757: Failed to generate brochure: 'SinglePageBrochureGenerator' object has no attribute '_generate_image'
+2024-12-27 21:40:51,084 - uvicorn.error - INFO - Shutting down
+2024-12-27 21:40:51,192 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 21:40:51,193 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 21:40:51,193 - uvicorn.error - INFO - Finished server process [4240]
+2024-12-27 21:41:12,606 - uvicorn.error - INFO - Started server process [22392]
+2024-12-27 21:41:12,608 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:41:12,608 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:41:12,609 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 21:44:28,580 - __main__ - ERROR - Error in generate_brochure: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 21:45:58,825 - __main__ - ERROR - Error in generate_brochure: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 21:47:24,258 - __main__ - ERROR - Error in generate_brochure: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 21:48:50,055 - __main__ - ERROR - Error in generate_brochure: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 21:50:56,343 - __main__ - ERROR - Error in generate_brochure: SinglePageBrochureGenerator.__init__() got an unexpected keyword argument 'custom_prompts'
+2024-12-27 21:55:16,177 - uvicorn.error - INFO - Shutting down
+2024-12-27 21:55:16,285 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 21:55:16,285 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 21:55:16,287 - uvicorn.error - INFO - Finished server process [22392]
+2024-12-27 21:55:32,016 - uvicorn.error - INFO - Started server process [11040]
+2024-12-27 21:55:32,017 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:55:32,017 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:55:32,018 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 21:56:21,323 - __main__ - INFO - Starting brochure generation task task_1735316781 for Azure Paradise Resort
+2024-12-27 21:56:21,634 - __main__ - ERROR - Error in task task_1735316781: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2024-12-27 21:58:22,251 - uvicorn.error - INFO - Shutting down
+2024-12-27 21:58:22,362 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 21:58:22,363 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 21:58:22,364 - uvicorn.error - INFO - Finished server process [11040]
+2024-12-27 21:58:28,532 - uvicorn.error - INFO - Started server process [27436]
+2024-12-27 21:58:28,534 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 21:58:28,534 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 21:58:28,535 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2024-12-27 21:59:15,361 - __main__ - INFO - Starting brochure generation task task_1735316955 for Azure Paradise Resort
+2024-12-27 22:00:00,970 - __main__ - ERROR - Error in task task_1735316955: [Errno 13] Permission denied: 'generated_brochures/Azure Paradise Resort_full_bleed_brochure.pdf'
+2024-12-27 22:01:26,866 - uvicorn.error - INFO - Shutting down
+2024-12-27 22:01:26,973 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 22:01:26,975 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 22:01:26,975 - uvicorn.error - INFO - Finished server process [27436]
+2024-12-27 22:04:59,550 - uvicorn.error - INFO - Started server process [28664]
+2024-12-27 22:04:59,553 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:04:59,553 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:04:59,554 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 22:06:43,053 - __main__ - INFO - Starting brochure generation task task_1735317403 for Azure Paradise Resort
+2024-12-27 22:07:07,245 - __main__ - ERROR - Error in task task_1735317403: [Errno 13] Permission denied: 'generated_brochures/Azure Paradise Resort_full_bleed_brochure.pdf'
+2024-12-27 22:12:17,632 - uvicorn.error - INFO - Started server process [28140]
+2024-12-27 22:12:17,632 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:12:17,633 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:12:27,117 - __main__ - INFO - Starting brochure generation task task_1735317747 for Azure Paradise Resort
+2024-12-27 22:12:53,936 - __main__ - ERROR - Error in task task_1735317747: [Errno 13] Permission denied: 'generated_brochures/Azure Paradise Resort_full_bleed_brochure.pdf'
+2024-12-27 22:13:49,648 - uvicorn.error - INFO - Started server process [28696]
+2024-12-27 22:13:49,649 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:13:49,649 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:13:55,533 - uvicorn.error - INFO - Shutting down
+2024-12-27 22:13:55,641 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 22:13:55,641 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 22:13:55,641 - uvicorn.error - INFO - Finished server process [28664]
+2024-12-27 22:14:13,459 - uvicorn.error - INFO - Started server process [26636]
+2024-12-27 22:14:13,459 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:14:13,459 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:14:54,529 - uvicorn.error - INFO - Started server process [27992]
+2024-12-27 22:14:54,530 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:14:54,530 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:14:54,530 - uvicorn.error - INFO - Uvicorn running on http://0.0.0.0:8006 (Press CTRL+C to quit)
+2024-12-27 22:15:50,432 - uvicorn.error - INFO - Started server process [15232]
+2024-12-27 22:15:50,433 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 22:15:50,433 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 22:15:50,434 - uvicorn.error - ERROR - [Errno 10048] error while attempting to bind on address ('0.0.0.0', 8006): only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-12-27 22:15:50,434 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 22:15:50,434 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 22:25:01,599 - __main__ - INFO - Starting brochure generation task task_1735318501598411 for Azure Paradise Resort
+2024-12-27 22:25:28,951 - __main__ - ERROR - Error in task task_1735318501598411: [Errno 13] Permission denied: 'generated_brochures/Azure Paradise Resort_full_bleed_brochure.pdf'
+2024-12-27 22:25:28,957 - __main__ - ERROR - Error starting brochure generation: a coroutine was expected, got None
+2024-12-27 22:25:28,959 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 580, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 241, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 52, in app
+    response = await func(request)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\routing.py", line 219, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\routing.py", line 152, in run_endpoint_function
+    return await dependant.call(**values)
+  File "d:\AI-brochure-generation\api\brochure_api.py", line 65, in generate_brochure
+    "status": "completed",
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pydantic\main.py", line 406, in __init__
+    raise validation_error
+pydantic.error_wrappers.ValidationError: 2 validation errors for ErrorResponse
+detail
+  field required (type=value_error.missing)
+status_code
+  field required (type=value_error.missing)
+2024-12-27 22:27:30,263 - __main__ - INFO - Starting brochure generation task task_1735318650263043 for Azure Paradise Resort
+2024-12-27 22:27:57,060 - __main__ - ERROR - Error in task task_1735318650263043: [Errno 13] Permission denied: 'generated_brochures/Azure Paradise Resort_full_bleed_brochure.pdf'
+2024-12-27 22:27:57,065 - __main__ - ERROR - Error starting brochure generation: a coroutine was expected, got None
+2024-12-27 22:27:57,066 - uvicorn.error - ERROR - Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc from None
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\cors.py", line 86, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\middleware\cors.py", line 142, in simple_response
+    await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc from None
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 580, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 241, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\starlette\routing.py", line 52, in app
+    response = await func(request)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\routing.py", line 219, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\fastapi\routing.py", line 152, in run_endpoint_function
+    return await dependant.call(**values)
+  File "d:\AI-brochure-generation\api\brochure_api.py", line 65, in generate_brochure
+    brochure_path = os.path.join("generated_brochures", brochure_filename)
+  File "C:\Users\Aditi\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\pydantic\main.py", line 406, in __init__
+    raise validation_error
+pydantic.error_wrappers.ValidationError: 2 validation errors for ErrorResponse
+detail
+  field required (type=value_error.missing)
+status_code
+  field required (type=value_error.missing)
+2024-12-27 23:16:51,597 - uvicorn.error - INFO - Started server process [4968]
+2024-12-27 23:16:51,597 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:16:51,597 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:18:31,242 - uvicorn.error - INFO - Started server process [6372]
+2024-12-27 23:18:31,244 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:18:31,245 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:18:31,246 - uvicorn.error - ERROR - [Errno 10048] error while attempting to bind on address ('127.0.0.1', 8006): only one usage of each socket address (protocol/network address/port) is normally permitted
+2024-12-27 23:18:31,246 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:18:31,246 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:21:57,595 - uvicorn.error - INFO - Started server process [23256]
+2024-12-27 23:21:57,598 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:21:57,598 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:21:57,598 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:26:23,976 - __main__ - INFO - Starting brochure generation task task_1735322183 for Azure Paradise Resort
+2024-12-27 23:27:57,059 - __main__ - INFO - Starting brochure generation task task_1735322277 for Skyline Grand Hotel
+2024-12-27 23:31:08,435 - uvicorn.error - INFO - Started server process [28496]
+2024-12-27 23:31:08,435 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:31:08,436 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:32:03,614 - __main__ - INFO - Starting brochure generation task task_1735322523 for Skyline Grand Hotel
+2024-12-27 23:32:27,638 - __main__ - ERROR - Error in task task_1735322523: [Errno 13] Permission denied: 'generated_brochures/Skyline Grand Hotel_full_bleed_brochure.pdf'
+2024-12-27 23:32:44,443 - uvicorn.error - INFO - Shutting down
+2024-12-27 23:32:44,551 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:32:44,552 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:32:44,553 - uvicorn.error - INFO - Finished server process [23256]
+2024-12-27 23:33:17,734 - uvicorn.error - INFO - Started server process [7920]
+2024-12-27 23:33:17,735 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:33:17,735 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:33:38,558 - uvicorn.error - INFO - Started server process [23032]
+2024-12-27 23:33:38,560 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:33:38,561 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:33:38,562 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:34:11,723 - __main__ - INFO - Starting brochure generation task task_1735322651 for Skyline Grand Hotel
+2024-12-27 23:34:37,207 - __main__ - ERROR - Error in task task_1735322651: [Errno 13] Permission denied: 'generated_brochures/Skyline Grand Hotel_full_bleed_brochure.pdf'
+2024-12-27 23:35:50,368 - uvicorn.error - INFO - Started server process [2804]
+2024-12-27 23:35:50,368 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:35:50,368 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:35:56,895 - __main__ - INFO - Starting brochure generation task task_1735322756 for Skyline Grand Hotel
+2024-12-27 23:36:20,775 - __main__ - ERROR - Error in task task_1735322756: [Errno 13] Permission denied: 'generated_brochures/Skyline Grand Hotel_full_bleed_brochure.pdf'
+2024-12-27 23:36:24,368 - uvicorn.error - INFO - Shutting down
+2024-12-27 23:36:24,475 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:36:24,476 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:36:24,476 - uvicorn.error - INFO - Finished server process [23032]
+2024-12-27 23:36:40,221 - uvicorn.error - INFO - Started server process [16624]
+2024-12-27 23:36:40,221 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:36:40,221 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:36:48,379 - uvicorn.error - INFO - Started server process [18800]
+2024-12-27 23:36:48,381 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:36:48,381 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:36:48,381 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:37:21,420 - __main__ - INFO - Starting brochure generation task task_1735322841 for Skyline Grand Hotel
+2024-12-27 23:37:45,807 - __main__ - ERROR - Error in task task_1735322841: [Errno 13] Permission denied: 'generated_brochures/Skyline Grand Hotel_full_bleed_brochure.pdf'
+2024-12-27 23:38:17,083 - uvicorn.error - INFO - Shutting down
+2024-12-27 23:38:17,190 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:38:17,191 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:38:17,191 - uvicorn.error - INFO - Finished server process [18800]
+2024-12-27 23:39:39,836 - uvicorn.error - INFO - Started server process [8400]
+2024-12-27 23:39:39,839 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:39:39,839 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:39:39,840 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:40:13,739 - __main__ - INFO - Starting brochure generation task task_1735323013 for Skyline Grand Hotel
+2024-12-27 23:40:38,257 - __main__ - ERROR - Error in task task_1735323013: [Errno 13] Permission denied: 'generated_brochures/Skyline Grand Hotel_full_bleed_brochure.pdf'
+2024-12-27 23:40:44,185 - uvicorn.error - INFO - Shutting down
+2024-12-27 23:40:44,293 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:40:44,293 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:40:44,293 - uvicorn.error - INFO - Finished server process [8400]
+2024-12-27 23:42:41,782 - uvicorn.error - INFO - Started server process [2024]
+2024-12-27 23:42:41,784 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:42:41,784 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:42:41,785 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:44:38,970 - uvicorn.error - INFO - Started server process [14916]
+2024-12-27 23:44:38,970 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:44:38,970 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:44:55,914 - uvicorn.error - INFO - Shutting down
+2024-12-27 23:44:56,023 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-27 23:44:56,023 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-27 23:44:56,023 - uvicorn.error - INFO - Finished server process [2024]
+2024-12-27 23:45:09,150 - uvicorn.error - INFO - Started server process [4344]
+2024-12-27 23:45:09,152 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:45:09,152 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:45:09,153 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-27 23:45:35,285 - __main__ - INFO - Starting brochure generation task task_1735323335 for Azure Paradise Resort
+2024-12-27 23:49:48,189 - uvicorn.error - INFO - Started server process [28156]
+2024-12-27 23:49:48,190 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:49:48,190 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:52:28,941 - uvicorn.error - INFO - Started server process [4672]
+2024-12-27 23:52:28,941 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:52:28,942 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:56:19,220 - uvicorn.error - INFO - Started server process [17720]
+2024-12-27 23:56:19,221 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:56:19,221 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:56:35,689 - uvicorn.error - INFO - Started server process [27872]
+2024-12-27 23:56:35,689 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:56:35,689 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:56:49,894 - uvicorn.error - INFO - Started server process [23532]
+2024-12-27 23:56:49,894 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:56:49,895 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:58:16,276 - uvicorn.error - INFO - Started server process [11376]
+2024-12-27 23:58:16,277 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:58:16,277 - uvicorn.error - INFO - Application startup complete.
+2024-12-27 23:58:42,500 - uvicorn.error - INFO - Started server process [3212]
+2024-12-27 23:58:42,500 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-27 23:58:42,500 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:00:34,758 - uvicorn.error - INFO - Started server process [18036]
+2024-12-28 00:00:34,758 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:00:34,758 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:02:37,263 - uvicorn.error - INFO - Started server process [24368]
+2024-12-28 00:02:37,264 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:02:37,264 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:03:24,657 - uvicorn.error - INFO - Started server process [5024]
+2024-12-28 00:03:24,657 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:03:24,657 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:07:12,876 - uvicorn.error - INFO - Started server process [22676]
+2024-12-28 00:07:12,876 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:07:12,876 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:12:54,871 - uvicorn.error - INFO - Started server process [14960]
+2024-12-28 00:12:54,872 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:12:54,872 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:15:37,594 - uvicorn.error - INFO - Started server process [29312]
+2024-12-28 00:15:37,594 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:15:37,594 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:20:21,264 - uvicorn.error - INFO - Started server process [29324]
+2024-12-28 00:20:21,264 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:20:21,265 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:22:01,570 - uvicorn.error - INFO - Started server process [18244]
+2024-12-28 00:22:01,570 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 00:22:01,570 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 00:30:34,265 - uvicorn.error - INFO - Shutting down
+2024-12-28 00:30:34,375 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 00:30:34,375 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 00:30:34,375 - uvicorn.error - INFO - Finished server process [4344]
+2024-12-28 12:40:35,258 - uvicorn.error - INFO - Started server process [3460]
+2024-12-28 12:40:35,284 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 12:40:35,284 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 12:40:35,285 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 12:51:29,670 - __main__ - INFO - Starting brochure generation task task_1735370489
+2024-12-28 12:51:40,406 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 12:54:34,452 - __main__ - INFO - Starting brochure generation task task_1735370674
+2024-12-28 12:54:39,565 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 13:26:28,344 - __main__ - INFO - Starting brochure generation task task_1735372588
+2024-12-28 13:26:31,937 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 13:28:49,898 - __main__ - INFO - Starting brochure generation task task_1735372729
+2024-12-28 13:28:56,175 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 13:30:09,432 - __main__ - INFO - Starting brochure generation task task_1735372809
+2024-12-28 13:30:14,228 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 13:31:31,686 - __main__ - INFO - Starting brochure generation task task_1735372891
+2024-12-28 13:31:37,342 - __main__ - ERROR - Error in generate_brochure_task: SinglePageBrochureGenerator.generate_brochure() got an unexpected keyword argument 'layout_style'
+2024-12-28 13:32:59,943 - uvicorn.error - INFO - Shutting down
+2024-12-28 13:33:00,049 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 13:33:00,052 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 13:33:00,052 - uvicorn.error - INFO - Finished server process [3460]
+2024-12-28 13:33:54,300 - uvicorn.error - INFO - Started server process [18936]
+2024-12-28 13:33:54,302 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 13:33:54,302 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 13:33:54,303 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 13:33:58,352 - __main__ - INFO - Starting brochure generation task task_1735373038 for Mountain Serenity Inn
+2024-12-28 13:34:07,569 - __main__ - ERROR - Error in task task_1735373038: [Errno 2] No such file or directory: 'generated_images/Mountain Serenity Inn_exterior.png'
+2024-12-28 13:34:53,730 - __main__ - INFO - Starting brochure generation task task_1735373093 for Mountain Serenity Inn
+2024-12-28 13:37:41,069 - __main__ - INFO - Starting brochure generation task task_1735373261 for Mountain Serenity Inn
+2024-12-28 13:38:04,756 - __main__ - ERROR - Error in task task_1735373261: [Errno 13] Permission denied: 'generated_brochures/Mountain Serenity Inn_full_bleed_brochure.pdf'
+2024-12-28 13:38:23,895 - __main__ - INFO - Starting brochure generation task task_1735373303 for Mountain Serenity Inn
+2024-12-28 13:38:49,361 - __main__ - ERROR - Error in task task_1735373303: [Errno 13] Permission denied: 'generated_brochures/Mountain Serenity Inn_full_bleed_brochure.pdf'
+2024-12-28 13:40:20,894 - __main__ - INFO - Starting brochure generation task task_1735373420 for Skyzone
+2024-12-28 13:42:28,837 - __main__ - INFO - Starting brochure generation task task_1735373548 for Skyzone
+2024-12-28 14:53:05,287 - uvicorn.error - INFO - Shutting down
+2024-12-28 14:53:05,394 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 14:53:05,395 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 14:53:05,396 - uvicorn.error - INFO - Finished server process [18936]
+2024-12-28 14:53:29,256 - uvicorn.error - INFO - Started server process [25604]
+2024-12-28 14:53:29,257 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 14:53:29,258 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 14:53:29,259 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 14:54:47,010 - uvicorn.error - INFO - Shutting down
+2024-12-28 14:54:47,117 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 14:54:47,118 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 14:54:47,118 - uvicorn.error - INFO - Finished server process [25604]
+2024-12-28 14:55:46,805 - uvicorn.error - INFO - Started server process [16280]
+2024-12-28 14:55:46,807 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 14:55:46,807 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 14:55:46,808 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:06:23,339 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:06:23,448 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:06:23,449 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:06:23,449 - uvicorn.error - INFO - Finished server process [16280]
+2024-12-28 15:06:42,615 - uvicorn.error - INFO - Started server process [26988]
+2024-12-28 15:06:42,617 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 15:06:42,617 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 15:06:42,618 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:08:13,696 - __main__ - ERROR - Error generating brochure: [Errno 13] Permission denied: 'generated_brochures/Serenity Bay Resort_full_bleed_brochure.pdf'
+2024-12-28 15:10:26,766 - __main__ - ERROR - Error generating brochure: [Errno 13] Permission denied: 'generated_brochures/Serenity Bay Resort_full_bleed_brochure.pdf'
+2024-12-28 15:10:32,192 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:10:32,298 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:10:32,303 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:10:32,309 - uvicorn.error - INFO - Finished server process [26988]
+2024-12-28 15:11:34,083 - uvicorn.error - INFO - Started server process [22192]
+2024-12-28 15:11:34,084 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 15:11:34,084 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 15:11:34,085 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:14:43,966 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:14:44,076 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:14:44,077 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:14:44,078 - uvicorn.error - INFO - Finished server process [22192]
+2024-12-28 15:15:03,298 - uvicorn.error - INFO - Started server process [24672]
+2024-12-28 15:15:03,299 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 15:15:03,300 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 15:15:03,300 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:20:48,375 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:20:48,484 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:20:48,485 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:20:48,486 - uvicorn.error - INFO - Finished server process [24672]
+2024-12-28 15:21:25,733 - uvicorn.error - INFO - Started server process [28632]
+2024-12-28 15:21:25,736 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 15:21:25,736 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 15:21:25,736 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:23:22,355 - __main__ - INFO - Starting image generation...
+2024-12-28 15:23:22,375 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:25:49,409 - __main__ - INFO - Starting image generation...
+2024-12-28 15:25:49,432 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:27:21,910 - __main__ - INFO - Starting image generation...
+2024-12-28 15:27:21,929 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:28:58,669 - __main__ - INFO - Starting image generation...
+2024-12-28 15:28:58,692 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:31:27,194 - __main__ - INFO - Starting image generation...
+2024-12-28 15:31:27,203 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:33:26,470 - __main__ - INFO - Starting image generation...
+2024-12-28 15:33:26,494 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:36:43,641 - __main__ - INFO - Starting image generation...
+2024-12-28 15:36:43,662 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:38:19,112 - __main__ - INFO - Starting image generation...
+2024-12-28 15:38:19,132 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:39:57,647 - __main__ - INFO - Starting image generation...
+2024-12-28 15:39:57,668 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:41:22,126 - __main__ - INFO - Starting image generation...
+2024-12-28 15:41:22,145 - __main__ - ERROR - Error generating brochure: Failed to generate images: string indices must be integers
+2024-12-28 15:42:17,115 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:42:17,223 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:42:17,224 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:42:17,225 - uvicorn.error - INFO - Finished server process [28632]
+2024-12-28 15:43:19,671 - uvicorn.error - INFO - Started server process [27472]
+2024-12-28 15:43:19,673 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 15:43:19,673 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 15:43:19,674 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 15:44:13,904 - uvicorn.error - INFO - Shutting down
+2024-12-28 15:44:14,012 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 15:44:14,012 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 15:44:14,013 - uvicorn.error - INFO - Finished server process [27472]
+2024-12-28 19:46:09,455 - uvicorn.error - INFO - Started server process [3904]
+2024-12-28 19:46:09,474 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 19:46:09,475 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 19:46:09,476 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 19:49:31,221 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:49:31,223 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:49:31,223 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 19:49:31,224 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 19:49:31,225 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 19:50:07,008 - __main__ - ERROR - Error during image generation: Failed to generate images: Failed to generate images: generated_images/Sunset Paradise Resort_exterior.png, generated_images/Sunset Paradise Resort_room.png, generated_images/Sunset Paradise Resort_restaurant.png
+2024-12-28 19:50:07,011 - __main__ - ERROR - Error type: <class 'Exception'>
+2024-12-28 19:50:07,012 - __main__ - ERROR - Unexpected error: 
+2024-12-28 19:50:07,012 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2024-12-28 19:52:46,684 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:52:46,687 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:52:46,689 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 19:52:46,690 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 19:52:46,691 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 19:53:16,994 - __main__ - ERROR - Error during image generation: Failed to generate images: Failed to generate images: generated_images/Sunset Paradise Resort_exterior.png, generated_images/Sunset Paradise Resort_room.png, generated_images/Sunset Paradise Resort_restaurant.png
+2024-12-28 19:53:16,994 - __main__ - ERROR - Error type: <class 'Exception'>
+2024-12-28 19:53:16,995 - __main__ - ERROR - Unexpected error: 
+2024-12-28 19:53:16,996 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2024-12-28 19:55:05,468 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:55:05,469 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 19:55:05,470 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 19:55:05,471 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 19:55:05,472 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 19:55:38,665 - __main__ - ERROR - Error during image generation: Failed to generate images: Failed to generate images: generated_images/Sunset Paradise Resort_exterior.png, generated_images/Sunset Paradise Resort_room.png, generated_images/Sunset Paradise Resort_restaurant.png
+2024-12-28 19:55:38,666 - __main__ - ERROR - Error type: <class 'Exception'>
+2024-12-28 19:55:38,667 - __main__ - ERROR - Unexpected error: 
+2024-12-28 19:55:38,667 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2024-12-28 20:01:21,180 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:01:21,184 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:01:21,184 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 20:01:21,185 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 20:01:21,187 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 20:01:47,630 - __main__ - ERROR - Error during image generation: Failed to generate images: Failed to generate images: generated_images/Sunset Paradise Resort_exterior.png, generated_images/Sunset Paradise Resort_room.png, generated_images/Sunset Paradise Resort_restaurant.png
+2024-12-28 20:01:47,630 - __main__ - ERROR - Error type: <class 'Exception'>
+2024-12-28 20:01:47,631 - __main__ - ERROR - Unexpected error: 
+2024-12-28 20:01:47,631 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2024-12-28 20:05:32,223 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:05:32,226 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:05:32,227 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 20:05:32,227 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 20:05:32,229 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 20:06:02,347 - __main__ - ERROR - Error during image generation: Failed to generate images: Failed to generate images: generated_images/Sunset Paradise Resort_exterior.png, generated_images/Sunset Paradise Resort_room.png, generated_images/Sunset Paradise Resort_restaurant.png
+2024-12-28 20:06:02,347 - __main__ - ERROR - Error type: <class 'Exception'>
+2024-12-28 20:06:02,348 - __main__ - ERROR - Unexpected error: 
+2024-12-28 20:06:02,349 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2024-12-28 20:06:14,540 - uvicorn.error - INFO - Shutting down
+2024-12-28 20:06:14,648 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 20:06:14,648 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 20:06:14,649 - uvicorn.error - INFO - Finished server process [3904]
+2024-12-28 20:06:31,961 - uvicorn.error - INFO - Started server process [23324]
+2024-12-28 20:06:31,963 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 20:06:31,963 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 20:06:31,963 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 20:08:09,197 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:08:09,199 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2024-12-28 20:08:09,199 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 20:08:09,199 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 20:08:09,200 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2024-12-28 20:45:23,747 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Caldera Cliffs Resort in Santorini
+2024-12-28 20:45:23,752 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Caldera Cliffs Resort in Santorini
+2024-12-28 20:45:23,752 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 20:45:23,753 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 20:45:23,755 - __main__ - INFO - Match found! Hotel: Caldera Cliffs Resort, Location: Santorini
+2024-12-28 21:00:17,542 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Caldera Cliffs Resort in Santorini
+2024-12-28 21:00:17,543 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Caldera Cliffs Resort in Santorini
+2024-12-28 21:00:17,543 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 21:00:17,545 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 21:00:17,545 - __main__ - INFO - Match found! Hotel: Caldera Cliffs Resort, Location: Santorini
+2024-12-28 21:06:24,251 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Santorini
+2024-12-28 21:06:24,252 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Santorini
+2024-12-28 21:06:24,253 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 21:06:24,254 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 21:06:24,254 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Santorini
+2024-12-28 21:26:24,531 - uvicorn.error - INFO - Shutting down
+2024-12-28 21:26:24,640 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 21:26:24,641 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 21:26:24,642 - uvicorn.error - INFO - Finished server process [23324]
+2024-12-28 23:15:42,105 - uvicorn.error - INFO - Started server process [15224]
+2024-12-28 23:15:42,106 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-28 23:15:42,106 - uvicorn.error - INFO - Application startup complete.
+2024-12-28 23:15:42,107 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-28 23:19:32,175 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Radisson Blue in Paris
+2024-12-28 23:19:32,178 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radisson Blue in Paris
+2024-12-28 23:19:32,179 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 23:19:32,179 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:19:32,182 - __main__ - INFO - Match found! Hotel: Radisson Blue, Location: Paris
+2024-12-28 23:33:40,373 - __main__ - INFO - 
+Received prompt request: Create a brochure for Sunset Paradise Resort near Sea
+2024-12-28 23:33:40,375 - __main__ - INFO - 
+Extracting hotel info from prompt: Create a brochure for Sunset Paradise Resort near Sea
+2024-12-28 23:33:40,376 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 23:33:40,377 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:33:40,377 - __main__ - INFO - Trying pattern 2: (?i)create.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:33:40,378 - __main__ - INFO - Trying pattern 3: (?i)make.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:33:40,379 - __main__ - INFO - No pattern matched, trying fallback method...
+2024-12-28 23:33:40,379 - __main__ - INFO - Split words: ['Create', 'a', 'brochure', 'for', 'Sunset', 'Paradise', 'Resort', 'near', 'Sea']
+2024-12-28 23:33:40,380 - __main__ - INFO - Processing word 0: Create
+2024-12-28 23:33:40,381 - __main__ - INFO - Processing word 1: a
+2024-12-28 23:33:40,381 - __main__ - INFO - Processing word 2: brochure
+2024-12-28 23:33:40,382 - __main__ - INFO - Processing word 3: for
+2024-12-28 23:33:40,382 - __main__ - INFO - Processing word 4: Sunset
+2024-12-28 23:33:40,383 - __main__ - INFO - Processing word 5: Paradise
+2024-12-28 23:33:40,384 - __main__ - INFO - Processing word 6: Resort
+2024-12-28 23:33:40,385 - __main__ - INFO - Processing word 7: near
+2024-12-28 23:33:40,385 - __main__ - INFO - Processing word 8: Sea
+2024-12-28 23:33:40,385 - __main__ - INFO - Capitalized words: ['Create', 'Sunset', 'Paradise', 'Resort', 'Sea']
+2024-12-28 23:33:40,386 - __main__ - INFO - Location words: []
+2024-12-28 23:33:40,386 - __main__ - INFO - Could not extract hotel information
+2024-12-28 23:33:40,387 - __main__ - ERROR - Error in extract_hotel_info: Could not extract hotel information from prompt
+2024-12-28 23:33:40,387 - __main__ - ERROR - Error type: <class 'ValueError'>
+2024-12-28 23:33:40,388 - __main__ - ERROR - Validation error: Could not understand the prompt. Please try rephrasing it.
+2024-12-28 23:33:40,389 - __main__ - ERROR - Error type: <class 'ValueError'>
+2024-12-28 23:34:16,564 - __main__ - INFO - 
+Received prompt request: Create a brochure for Sunset Paradise Resort in Goa
+2024-12-28 23:34:16,572 - __main__ - INFO - 
+Extracting hotel info from prompt: Create a brochure for Sunset Paradise Resort in Goa
+2024-12-28 23:34:16,575 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 23:34:16,575 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:34:16,575 - __main__ - INFO - Trying pattern 2: (?i)create.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:34:16,577 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Goa
+2024-12-28 23:35:38,925 - __main__ - INFO - 
+Received prompt request: Create a brochure for Sunset Paradise Resort in Goa
+2024-12-28 23:35:38,926 - __main__ - INFO - 
+Extracting hotel info from prompt: Create a brochure for Sunset Paradise Resort in Goa
+2024-12-28 23:35:38,926 - __main__ - INFO - Trying 3 patterns...
+2024-12-28 23:35:38,927 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:35:38,927 - __main__ - INFO - Trying pattern 2: (?i)create.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-28 23:35:38,928 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Goa
+2024-12-28 23:38:06,314 - uvicorn.error - INFO - Shutting down
+2024-12-28 23:38:06,427 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-28 23:38:06,428 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-28 23:38:06,429 - uvicorn.error - INFO - Finished server process [15224]
+2024-12-29 13:45:03,761 - uvicorn.error - INFO - Started server process [24656]
+2024-12-29 13:45:03,780 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-29 13:45:03,780 - uvicorn.error - INFO - Application startup complete.
+2024-12-29 13:45:03,781 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-29 13:46:17,847 - __main__ - INFO - 
+Received prompt request: Generate a brochure for ABC Resort in Bali
+2024-12-29 13:46:17,848 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for ABC Resort in Bali
+2024-12-29 13:46:17,849 - __main__ - INFO - Trying 3 patterns...
+2024-12-29 13:46:17,849 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-29 13:46:17,850 - __main__ - INFO - Match found! Hotel: ABC Resort, Location: Bali
+2024-12-29 13:48:43,682 - uvicorn.error - INFO - Shutting down
+2024-12-29 13:48:43,788 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-29 13:48:43,790 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-29 13:48:43,791 - uvicorn.error - INFO - Finished server process [24656]
+2024-12-29 15:12:27,203 - uvicorn.error - INFO - Started server process [5372]
+2024-12-29 15:12:27,204 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-29 15:12:27,205 - uvicorn.error - INFO - Application startup complete.
+2024-12-29 15:12:27,205 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-29 15:13:52,987 - __main__ - INFO - 
+Received prompt request: Generate a brochure for ABC Resort in Bali
+2024-12-29 15:13:52,989 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for ABC Resort in Bali
+2024-12-29 15:13:52,990 - __main__ - INFO - Trying 3 patterns...
+2024-12-29 15:13:52,990 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-29 15:13:52,992 - __main__ - INFO - Match found! Hotel: ABC Resort, Location: Bali
+2024-12-29 15:22:46,257 - uvicorn.error - INFO - Shutting down
+2024-12-29 15:22:46,365 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-29 15:22:46,366 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-29 15:22:46,366 - uvicorn.error - INFO - Finished server process [5372]
+2024-12-29 16:23:38,499 - uvicorn.error - INFO - Started server process [25892]
+2024-12-29 16:23:38,501 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-29 16:23:38,501 - uvicorn.error - INFO - Application startup complete.
+2024-12-29 16:23:38,502 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-29 16:24:43,010 - uvicorn.error - INFO - Shutting down
+2024-12-29 16:24:43,119 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-29 16:24:43,120 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-29 16:24:43,120 - uvicorn.error - INFO - Finished server process [25892]
+2024-12-29 16:24:51,460 - uvicorn.error - INFO - Started server process [16960]
+2024-12-29 16:24:51,464 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-29 16:24:51,464 - uvicorn.error - INFO - Application startup complete.
+2024-12-29 16:24:51,465 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-29 16:26:06,523 - uvicorn.error - INFO - Shutting down
+2024-12-29 16:26:06,630 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-29 16:26:06,631 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-29 16:26:06,632 - uvicorn.error - INFO - Finished server process [16960]
+2024-12-29 16:26:57,517 - uvicorn.error - INFO - Started server process [23024]
+2024-12-29 16:26:57,519 - uvicorn.error - INFO - Waiting for application startup.
+2024-12-29 16:26:57,519 - uvicorn.error - INFO - Application startup complete.
+2024-12-29 16:26:57,519 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2024-12-29 16:29:40,662 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Bali
+2024-12-29 16:29:40,663 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Bali
+2024-12-29 16:29:40,663 - __main__ - INFO - Trying 3 patterns...
+2024-12-29 16:29:40,664 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2024-12-29 16:29:40,666 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Bali
+2024-12-29 16:30:49,257 - uvicorn.error - INFO - Shutting down
+2024-12-29 16:30:49,364 - uvicorn.error - INFO - Waiting for application shutdown.
+2024-12-29 16:30:49,366 - uvicorn.error - INFO - Application shutdown complete.
+2024-12-29 16:30:49,367 - uvicorn.error - INFO - Finished server process [23024]
+2025-01-02 21:20:45,522 - uvicorn.error - INFO - Started server process [10456]
+2025-01-02 21:20:45,540 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-02 21:20:45,541 - uvicorn.error - INFO - Application startup complete.
+2025-01-02 21:20:45,541 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-02 21:22:00,240 - __main__ - INFO - 
+Received prompt request: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:22:00,240 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:22:00,241 - __main__ - INFO - Trying 3 patterns...
+2025-01-02 21:22:00,241 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-02 21:22:00,241 - __main__ - INFO - Match found! Hotel: ABC Resort, Location: Goa
+2025-01-02 21:24:54,017 - __main__ - INFO - 
+Received prompt request: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:24:54,019 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:24:54,020 - __main__ - INFO - Trying 3 patterns...
+2025-01-02 21:24:54,021 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-02 21:24:54,021 - __main__ - INFO - Match found! Hotel: ABC Resort, Location: Goa
+2025-01-02 21:43:23,309 - uvicorn.error - INFO - Shutting down
+2025-01-02 21:43:23,419 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-02 21:43:23,420 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-02 21:43:23,420 - uvicorn.error - INFO - Finished server process [10456]
+2025-01-02 21:44:38,966 - uvicorn.error - INFO - Started server process [5272]
+2025-01-02 21:44:38,968 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-02 21:44:38,968 - uvicorn.error - INFO - Application startup complete.
+2025-01-02 21:44:38,969 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-02 21:46:42,567 - __main__ - INFO - 
+Received prompt request: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:46:42,567 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for ABC Resort in Goa
+2025-01-02 21:46:42,568 - __main__ - INFO - Trying 3 patterns...
+2025-01-02 21:46:42,568 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-02 21:46:42,569 - __main__ - INFO - Match found! Hotel: ABC Resort, Location: Goa
+2025-01-02 21:53:32,357 - uvicorn.error - INFO - Shutting down
+2025-01-02 21:53:32,468 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-02 21:53:32,469 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-02 21:53:32,470 - uvicorn.error - INFO - Finished server process [5272]
+2025-01-02 21:53:55,447 - uvicorn.error - INFO - Started server process [1968]
+2025-01-02 21:53:55,449 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-02 21:53:55,449 - uvicorn.error - INFO - Application startup complete.
+2025-01-02 21:53:55,450 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-02 23:57:08,550 - uvicorn.error - INFO - Shutting down
+2025-01-02 23:57:08,672 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-02 23:57:08,676 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-02 23:57:08,677 - uvicorn.error - INFO - Finished server process [1968]
+2025-01-02 23:59:42,466 - uvicorn.error - INFO - Started server process [23756]
+2025-01-02 23:59:42,468 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-02 23:59:42,469 - uvicorn.error - INFO - Application startup complete.
+2025-01-02 23:59:42,470 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 00:16:17,322 - uvicorn.error - INFO - Shutting down
+2025-01-03 00:16:17,443 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 00:16:17,446 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 00:16:17,447 - uvicorn.error - INFO - Finished server process [23756]
+2025-01-03 00:16:54,789 - uvicorn.error - INFO - Started server process [19856]
+2025-01-03 00:16:54,800 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 00:16:54,801 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 00:16:54,802 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 00:24:33,400 - uvicorn.error - INFO - Shutting down
+2025-01-03 00:24:33,509 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 00:24:33,510 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 00:24:33,510 - uvicorn.error - INFO - Finished server process [19856]
+2025-01-03 00:25:04,644 - uvicorn.error - INFO - Started server process [21680]
+2025-01-03 00:25:04,646 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 00:25:04,647 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 00:25:04,647 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 00:41:12,658 - uvicorn.error - INFO - Shutting down
+2025-01-03 00:41:12,765 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 00:41:12,766 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 00:41:12,768 - uvicorn.error - INFO - Finished server process [21680]
+2025-01-03 00:41:26,285 - uvicorn.error - INFO - Started server process [20268]
+2025-01-03 00:41:26,289 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 00:41:26,290 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 00:41:26,291 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:06:46,532 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:06:46,651 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:06:46,653 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:06:46,654 - uvicorn.error - INFO - Finished server process [20268]
+2025-01-03 01:08:36,318 - uvicorn.error - INFO - Started server process [20308]
+2025-01-03 01:08:36,322 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:08:36,322 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:08:36,323 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:12:43,180 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:12:43,286 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:12:43,289 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:12:43,289 - uvicorn.error - INFO - Finished server process [20308]
+2025-01-03 01:12:51,067 - uvicorn.error - INFO - Started server process [2600]
+2025-01-03 01:12:51,070 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:12:51,070 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:12:51,071 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:17:12,418 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:17:12,527 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:17:12,528 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:17:12,528 - uvicorn.error - INFO - Finished server process [2600]
+2025-01-03 01:17:30,583 - uvicorn.error - INFO - Started server process [25336]
+2025-01-03 01:17:30,585 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:17:30,586 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:17:30,586 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:19:32,875 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:19:32,982 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:19:32,983 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:19:32,983 - uvicorn.error - INFO - Finished server process [25336]
+2025-01-03 01:20:09,110 - uvicorn.error - INFO - Started server process [21096]
+2025-01-03 01:20:09,113 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:20:09,113 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:20:09,113 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:33:05,039 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:33:05,158 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:33:05,160 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:33:05,161 - uvicorn.error - INFO - Finished server process [21096]
+2025-01-03 01:33:30,827 - uvicorn.error - INFO - Started server process [16120]
+2025-01-03 01:33:30,830 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:33:30,830 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:33:30,830 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:43:03,582 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:43:03,690 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:43:03,690 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:43:03,690 - uvicorn.error - INFO - Finished server process [16120]
+2025-01-03 01:43:20,304 - uvicorn.error - INFO - Started server process [16072]
+2025-01-03 01:43:20,306 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:43:20,307 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:43:20,307 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:44:52,560 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:44:52,668 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:44:52,668 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:44:52,669 - uvicorn.error - INFO - Finished server process [16072]
+2025-01-03 01:48:30,424 - uvicorn.error - INFO - Started server process [13924]
+2025-01-03 01:48:30,426 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 01:48:30,426 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 01:48:30,426 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 01:50:11,921 - uvicorn.error - INFO - Shutting down
+2025-01-03 01:50:12,029 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 01:50:12,030 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 01:50:12,030 - uvicorn.error - INFO - Finished server process [13924]
+2025-01-03 08:41:50,583 - uvicorn.error - INFO - Started server process [22808]
+2025-01-03 08:41:50,650 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 08:41:50,652 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 08:41:50,653 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 09:03:51,867 - uvicorn.error - INFO - Shutting down
+2025-01-03 09:03:51,998 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 09:03:52,012 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 09:03:52,016 - uvicorn.error - INFO - Finished server process [22808]
+2025-01-03 09:04:24,565 - uvicorn.error - INFO - Started server process [16844]
+2025-01-03 09:04:24,568 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 09:04:24,568 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 09:04:24,569 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 09:12:29,484 - uvicorn.error - INFO - Shutting down
+2025-01-03 09:12:29,589 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 09:12:29,591 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 09:12:29,591 - uvicorn.error - INFO - Finished server process [16844]
+2025-01-03 09:49:31,809 - uvicorn.error - INFO - Started server process [3048]
+2025-01-03 09:49:31,816 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 09:49:31,817 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 09:49:31,817 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 09:50:42,058 - uvicorn.error - INFO - Shutting down
+2025-01-03 09:50:42,163 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 09:50:42,164 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 09:50:42,165 - uvicorn.error - INFO - Finished server process [3048]
+2025-01-03 09:51:08,127 - uvicorn.error - INFO - Started server process [24712]
+2025-01-03 09:51:08,128 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 09:51:08,130 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 09:51:08,130 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 09:53:01,544 - uvicorn.error - INFO - Shutting down
+2025-01-03 09:53:01,654 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 09:53:01,654 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 09:53:01,654 - uvicorn.error - INFO - Finished server process [24712]
+2025-01-03 13:04:13,242 - uvicorn.error - INFO - Started server process [16028]
+2025-01-03 13:04:13,246 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 13:04:13,247 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 13:04:13,248 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 13:05:34,443 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Ritz Carlton Resort in Pune
+2025-01-03 13:05:34,444 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Ritz Carlton Resort in Pune
+2025-01-03 13:05:34,446 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 13:05:34,446 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 13:05:34,447 - __main__ - INFO - Match found! Hotel: Ritz Carlton Resort, Location: Pune
+2025-01-03 19:53:02,921 - uvicorn.error - INFO - Started server process [1576]
+2025-01-03 19:53:02,942 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 19:53:02,942 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 19:53:02,943 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 19:54:50,194 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Le Meridian in France
+2025-01-03 19:54:50,199 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Le Meridian in France
+2025-01-03 19:54:50,199 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 19:54:50,200 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 19:54:50,207 - __main__ - INFO - Match found! Hotel: Le Meridian, Location: France
+2025-01-03 20:01:30,697 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Riveria Villa in Goa
+2025-01-03 20:01:30,698 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Riveria Villa in Goa
+2025-01-03 20:01:30,699 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 20:01:30,699 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 20:01:30,700 - __main__ - INFO - Match found! Hotel: Riveria Villa, Location: Goa
+2025-01-03 20:03:42,760 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Riveria Villa in Goa
+2025-01-03 20:03:42,762 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Riveria Villa in Goa
+2025-01-03 20:03:42,762 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 20:03:42,763 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 20:03:42,763 - __main__ - INFO - Match found! Hotel: Riveria Villa, Location: Goa
+2025-01-03 20:07:48,818 - __main__ - INFO - 
+Received prompt request: Generate a brochure for AVATAARA Resort in Goa
+2025-01-03 20:07:48,820 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for AVATAARA Resort in Goa
+2025-01-03 20:07:48,820 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 20:07:48,820 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 20:07:48,821 - __main__ - INFO - Match found! Hotel: AVATAARA Resort, Location: Goa
+2025-01-03 20:21:55,023 - uvicorn.error - INFO - Shutting down
+2025-01-03 20:21:55,131 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 20:21:55,132 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 20:21:55,133 - uvicorn.error - INFO - Finished server process [1576]
+2025-01-03 20:29:27,413 - uvicorn.error - INFO - Started server process [25668]
+2025-01-03 20:29:27,415 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 20:29:27,417 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 20:29:27,417 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 20:29:59,106 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sayaji Hotel in Mumbai
+2025-01-03 20:29:59,106 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sayaji Hotel in Mumbai
+2025-01-03 20:29:59,106 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 20:29:59,106 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 20:29:59,107 - __main__ - INFO - Match found! Hotel: Sayaji Hotel, Location: Mumbai
+2025-01-03 21:03:46,143 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Rainforest in Bali
+2025-01-03 21:03:46,144 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Rainforest in Bali
+2025-01-03 21:03:46,144 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 21:03:46,144 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 21:03:46,144 - __main__ - INFO - Match found! Hotel: Rainforest, Location: Bali
+2025-01-03 21:34:42,210 - uvicorn.error - INFO - Shutting down
+2025-01-03 21:34:42,302 - uvicorn.error - INFO - Waiting for connections to close. (CTRL+C to force quit)
+2025-01-03 21:34:43,444 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 21:34:43,446 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 21:34:43,446 - uvicorn.error - INFO - Finished server process [25668]
+2025-01-03 22:01:09,409 - uvicorn.error - INFO - Started server process [8276]
+2025-01-03 22:01:09,413 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:01:09,413 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:01:09,413 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:02:12,901 - __main__ - INFO - 
+Received prompt request: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:02:12,905 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:02:12,906 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:02:12,906 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:02:12,907 - __main__ - INFO - Match found! Hotel: JW Mariott, Location: Goa
+2025-01-03 22:18:24,224 - __main__ - INFO - 
+Received prompt request: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:18:24,227 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:18:24,227 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:18:24,228 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:18:24,229 - __main__ - INFO - Match found! Hotel: JW Mariott, Location: Goa
+2025-01-03 22:29:08,373 - uvicorn.error - INFO - Started server process [13904]
+2025-01-03 22:29:08,377 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:29:08,378 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:29:08,379 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:30:22,478 - __main__ - INFO - 
+Received prompt request: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:30:22,478 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:30:22,478 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:30:22,479 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:30:22,479 - __main__ - INFO - Match found! Hotel: JW Mariott, Location: Goa
+2025-01-03 22:35:55,378 - uvicorn.error - INFO - Shutting down
+2025-01-03 22:35:55,484 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 22:35:55,485 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 22:35:55,486 - uvicorn.error - INFO - Finished server process [13904]
+2025-01-03 22:36:37,736 - uvicorn.error - INFO - Started server process [30080]
+2025-01-03 22:36:37,741 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:36:37,741 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:36:37,743 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:38:11,274 - __main__ - INFO - 
+Received prompt request: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:38:11,277 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for JW Mariott in Goa
+2025-01-03 22:38:11,278 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:38:11,279 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:38:11,280 - __main__ - INFO - Match found! Hotel: JW Mariott, Location: Goa
+2025-01-03 22:45:38,068 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:45:38,070 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:45:38,073 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:45:38,074 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:45:38,077 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 22:51:59,425 - uvicorn.error - INFO - Shutting down
+2025-01-03 22:51:59,534 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 22:51:59,536 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 22:51:59,537 - uvicorn.error - INFO - Finished server process [30080]
+2025-01-03 22:52:10,534 - uvicorn.error - INFO - Started server process [25160]
+2025-01-03 22:52:10,536 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:52:10,536 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:52:10,536 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:54:04,311 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:54:04,312 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:54:04,312 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:54:04,312 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:54:04,312 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 22:56:02,460 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:56:02,461 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:56:02,461 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:56:02,461 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:56:02,461 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 22:56:39,228 - uvicorn.error - INFO - Shutting down
+2025-01-03 22:56:39,337 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 22:56:39,339 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 22:56:39,340 - uvicorn.error - INFO - Finished server process [25160]
+2025-01-03 22:57:06,809 - uvicorn.error - INFO - Started server process [6580]
+2025-01-03 22:57:06,811 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:57:06,811 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:57:06,812 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:58:05,811 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:58:05,812 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:58:05,812 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:58:05,812 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:58:05,813 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 22:58:50,696 - uvicorn.error - INFO - Shutting down
+2025-01-03 22:58:50,804 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 22:58:50,808 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 22:58:50,811 - uvicorn.error - INFO - Finished server process [6580]
+2025-01-03 22:59:24,768 - uvicorn.error - INFO - Started server process [15708]
+2025-01-03 22:59:24,771 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-03 22:59:24,771 - uvicorn.error - INFO - Application startup complete.
+2025-01-03 22:59:24,771 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-03 22:59:45,846 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:59:45,847 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 22:59:45,847 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 22:59:45,848 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 22:59:45,848 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 23:11:04,752 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Hilton Resort in Goa
+2025-01-03 23:11:04,753 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Hilton Resort in Goa
+2025-01-03 23:11:04,753 - __main__ - INFO - Trying 3 patterns...
+2025-01-03 23:11:04,754 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-03 23:11:04,755 - __main__ - INFO - Match found! Hotel: Hilton Resort, Location: Goa
+2025-01-03 23:14:33,634 - uvicorn.error - INFO - Shutting down
+2025-01-03 23:14:33,745 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-03 23:14:33,746 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-03 23:14:33,746 - uvicorn.error - INFO - Finished server process [15708]
+2025-01-04 00:51:31,886 - uvicorn.error - INFO - Started server process [11640]
+2025-01-04 00:51:31,946 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 00:51:31,947 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 00:51:31,948 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 00:55:58,395 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 00:55:58,399 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 00:55:58,400 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 00:55:58,402 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 00:55:58,406 - __main__ - INFO - Match found! Hotel: Grand Hyatt, Location: Goa
+2025-01-04 01:01:04,676 - uvicorn.error - INFO - Shutting down
+2025-01-04 01:01:04,785 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 01:01:04,787 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 01:01:04,788 - uvicorn.error - INFO - Finished server process [11640]
+2025-01-04 01:01:32,836 - uvicorn.error - INFO - Started server process [15376]
+2025-01-04 01:01:32,838 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 01:01:32,839 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 01:01:32,839 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 01:05:42,476 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 01:05:42,477 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 01:05:42,477 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 01:05:42,478 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 01:05:42,478 - __main__ - INFO - Match found! Hotel: Grand Hyatt, Location: Goa
+2025-01-04 01:07:39,017 - uvicorn.error - INFO - Shutting down
+2025-01-04 01:07:39,126 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 01:07:39,138 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 01:07:39,139 - uvicorn.error - INFO - Finished server process [15376]
+2025-01-04 01:08:03,124 - uvicorn.error - INFO - Started server process [23952]
+2025-01-04 01:08:03,127 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 01:08:03,127 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 01:08:03,128 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 01:08:57,272 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 01:08:57,273 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 01:08:57,273 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 01:08:57,274 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 01:08:57,275 - __main__ - INFO - Match found! Hotel: Grand Hyatt, Location: Goa
+2025-01-04 01:10:29,090 - uvicorn.error - INFO - Shutting down
+2025-01-04 01:10:29,198 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 01:10:29,204 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 01:10:29,206 - uvicorn.error - INFO - Finished server process [23952]
+2025-01-04 10:32:33,401 - uvicorn.error - INFO - Started server process [12192]
+2025-01-04 10:32:33,446 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:32:33,446 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:32:33,447 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:34:01,409 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:34:01,517 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:34:01,518 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:34:01,518 - uvicorn.error - INFO - Finished server process [12192]
+2025-01-04 10:34:09,071 - uvicorn.error - INFO - Started server process [20640]
+2025-01-04 10:34:09,075 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:34:09,075 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:34:09,076 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:35:12,291 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:35:12,399 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:35:12,401 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:35:12,402 - uvicorn.error - INFO - Finished server process [20640]
+2025-01-04 10:37:08,496 - uvicorn.error - INFO - Started server process [3968]
+2025-01-04 10:37:08,518 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:37:08,519 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:37:08,519 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:42:28,007 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:42:28,127 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:42:28,133 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:42:28,133 - uvicorn.error - INFO - Finished server process [3968]
+2025-01-04 10:42:59,532 - uvicorn.error - INFO - Started server process [21916]
+2025-01-04 10:42:59,536 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:42:59,536 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:42:59,536 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:43:38,625 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:43:38,733 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:43:38,735 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:43:38,736 - uvicorn.error - INFO - Finished server process [21916]
+2025-01-04 10:43:57,675 - uvicorn.error - INFO - Started server process [21244]
+2025-01-04 10:43:57,678 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:43:57,678 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:43:57,678 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:44:43,371 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:44:43,479 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:44:43,482 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:44:43,483 - uvicorn.error - INFO - Finished server process [21244]
+2025-01-04 10:51:06,146 - uvicorn.error - INFO - Started server process [11180]
+2025-01-04 10:51:06,147 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:51:06,147 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:51:06,148 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:53:57,321 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 10:53:57,323 - __main__ - INFO - 
+Extracting hotel info from prompt using NLP: Generate a brochure for Grand Hyatt in Goa
+2025-01-04 10:53:57,448 - __main__ - INFO - Found entities: [('Grand Hyatt', 'PERSON')]
+2025-01-04 10:53:57,449 - __main__ - ERROR - Error in NLP extraction: Could not extract hotel name and location from prompt
+2025-01-04 10:53:57,450 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:53:57,450 - __main__ - ERROR - Validation error: Could not understand the prompt. Please try rephrasing it.
+2025-01-04 10:53:57,450 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:54:26,111 - __main__ - INFO - 
+Received prompt request: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:54:26,113 - __main__ - INFO - 
+Extracting hotel info from prompt using NLP: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:54:26,167 - __main__ - INFO - Found entities: [('the Grand Hyatt Resort', 'ORG'), ('Goa', 'PERSON')]
+2025-01-04 10:54:26,168 - __main__ - ERROR - Error in NLP extraction: Could not extract hotel name and location from prompt
+2025-01-04 10:54:26,174 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:54:26,176 - __main__ - ERROR - Validation error: Could not understand the prompt. Please try rephrasing it.
+2025-01-04 10:54:26,176 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:54:37,040 - __main__ - INFO - 
+Received prompt request: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:54:37,042 - __main__ - INFO - 
+Extracting hotel info from prompt using NLP: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:54:37,050 - __main__ - INFO - Found entities: [('the Grand Hyatt Resort', 'ORG'), ('Goa', 'PERSON')]
+2025-01-04 10:54:37,051 - __main__ - ERROR - Error in NLP extraction: Could not extract hotel name and location from prompt
+2025-01-04 10:54:37,051 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:54:37,054 - __main__ - ERROR - Validation error: Could not understand the prompt. Please try rephrasing it.
+2025-01-04 10:54:37,054 - __main__ - ERROR - Error type: <class 'ValueError'>
+2025-01-04 10:54:43,651 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:54:43,759 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:54:43,761 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:54:43,761 - uvicorn.error - INFO - Finished server process [11180]
+2025-01-04 10:55:01,771 - uvicorn.error - INFO - Started server process [10188]
+2025-01-04 10:55:01,773 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 10:55:01,773 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 10:55:01,775 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 10:56:00,393 - __main__ - INFO - 
+Received prompt request: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:56:00,395 - __main__ - INFO - 
+Extracting hotel info from prompt: I need a brochure for the Grand Hyatt Resort located in Goa
+2025-01-04 10:56:00,396 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 10:56:00,397 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 10:56:00,398 - __main__ - INFO - Trying pattern 2: (?i)create.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 10:56:00,399 - __main__ - INFO - Trying pattern 3: (?i)make.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 10:56:00,399 - __main__ - INFO - No pattern matched, trying fallback method...
+2025-01-04 10:56:00,400 - __main__ - INFO - Split words: ['I', 'need', 'a', 'brochure', 'for', 'the', 'Grand', 'Hyatt', 'Resort', 'located', 'in', 'Goa']
+2025-01-04 10:56:00,400 - __main__ - INFO - Processing word 0: I
+2025-01-04 10:56:00,400 - __main__ - INFO - Processing word 1: need
+2025-01-04 10:56:00,402 - __main__ - INFO - Processing word 2: a
+2025-01-04 10:56:00,402 - __main__ - INFO - Processing word 3: brochure
+2025-01-04 10:56:00,403 - __main__ - INFO - Processing word 4: for
+2025-01-04 10:56:00,409 - __main__ - INFO - Processing word 5: the
+2025-01-04 10:56:00,409 - __main__ - INFO - Processing word 6: Grand
+2025-01-04 10:56:00,410 - __main__ - INFO - Processing word 7: Hyatt
+2025-01-04 10:56:00,410 - __main__ - INFO - Processing word 8: Resort
+2025-01-04 10:56:00,411 - __main__ - INFO - Processing word 9: located
+2025-01-04 10:56:00,411 - __main__ - INFO - Processing word 10: in
+2025-01-04 10:56:00,411 - __main__ - INFO - Found 'in' at position 10
+2025-01-04 10:56:00,412 - __main__ - INFO - Processing word 11: Goa
+2025-01-04 10:56:00,412 - __main__ - INFO - Capitalized words: ['I', 'Grand', 'Hyatt', 'Resort']
+2025-01-04 10:56:00,413 - __main__ - INFO - Location words: ['Goa']
+2025-01-04 10:56:00,413 - __main__ - INFO - Fallback method succeeded: {'hotel_name': 'I Grand Hyatt Resort', 'location': 'Goa', 'layout': 'full_bleed'}
+2025-01-04 10:56:57,250 - uvicorn.error - INFO - Shutting down
+2025-01-04 10:56:57,359 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 10:56:57,360 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 10:56:57,360 - uvicorn.error - INFO - Finished server process [10188]
+2025-01-04 12:01:08,000 - uvicorn.error - INFO - Started server process [20296]
+2025-01-04 12:01:08,042 - uvicorn.error - INFO - Waiting for application startup.
+2025-01-04 12:01:08,044 - uvicorn.error - INFO - Application startup complete.
+2025-01-04 12:01:08,045 - uvicorn.error - INFO - Uvicorn running on http://127.0.0.1:8006 (Press CTRL+C to quit)
+2025-01-04 12:02:58,505 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt Resort in Maldives
+2025-01-04 12:02:58,505 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Grand Hyatt Resort in Maldives
+2025-01-04 12:02:58,505 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 12:02:58,505 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 12:02:58,505 - __main__ - INFO - Match found! Hotel: Grand Hyatt Resort, Location: Maldives
+2025-01-04 12:35:08,146 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Goa
+2025-01-04 12:35:08,147 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Goa
+2025-01-04 12:35:08,147 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 12:35:08,147 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 12:35:08,147 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Goa
+2025-01-04 12:44:40,746 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-04 12:44:40,749 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-04 12:44:40,750 - __main__ - INFO - Trying 3 patterns...
+2025-01-04 12:44:40,751 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-04 12:44:40,752 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Himachal
+2025-01-04 12:51:49,590 - uvicorn.error - INFO - Shutting down
+2025-01-04 12:51:49,699 - uvicorn.error - INFO - Waiting for application shutdown.
+2025-01-04 12:51:49,701 - uvicorn.error - INFO - Application shutdown complete.
+2025-01-04 12:51:49,701 - uvicorn.error - INFO - Finished server process [20296]
+2025-01-20 21:28:22,599 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:28:22,606 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:28:22,606 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 21:28:22,607 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 21:28:22,607 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 21:28:24,706 - __main__ - ERROR - Unexpected error: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2025-01-20 21:28:24,706 - __main__ - ERROR - Error type: <class 'AttributeError'>
+2025-01-20 21:29:23,826 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:29:23,826 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:29:23,826 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 21:29:23,827 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 21:29:23,827 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 21:29:34,595 - __main__ - ERROR - Error during image generation: Image generation failed
+2025-01-20 21:29:34,595 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-01-20 21:29:34,595 - __main__ - ERROR - Unexpected error: 
+2025-01-20 21:29:34,595 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-01-20 21:30:41,616 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:30:41,618 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:30:41,619 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 21:30:41,620 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 21:30:41,620 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 21:30:59,767 - __main__ - ERROR - Error during image generation: Image generation failed
+2025-01-20 21:30:59,768 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-01-20 21:30:59,769 - __main__ - ERROR - Unexpected error: 
+2025-01-20 21:30:59,770 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-01-20 21:31:28,617 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:31:28,618 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 21:31:28,619 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 21:31:28,619 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 21:31:28,620 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 21:31:37,559 - __main__ - ERROR - Error during image generation: Image generation failed
+2025-01-20 21:31:37,560 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-01-20 21:31:37,563 - __main__ - ERROR - Unexpected error: 
+2025-01-20 21:31:37,563 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-01-20 22:48:21,910 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:48:21,911 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:48:21,912 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 22:48:21,912 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 22:48:21,914 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 22:48:38,315 - __main__ - ERROR - Error during image generation: Image generation failed
+2025-01-20 22:48:38,316 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-01-20 22:48:38,316 - __main__ - ERROR - Unexpected error: 
+2025-01-20 22:48:38,317 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-01-20 22:55:34,219 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:55:34,221 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:55:34,221 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 22:55:34,221 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 22:55:34,222 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-20 22:55:51,939 - __main__ - ERROR - Error during image generation: Image generation failed
+2025-01-20 22:55:51,941 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-01-20 22:55:51,941 - __main__ - ERROR - Unexpected error: 
+2025-01-20 22:55:51,941 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-01-20 22:58:22,296 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:58:22,296 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-20 22:58:22,298 - __main__ - INFO - Trying 3 patterns...
+2025-01-20 22:58:22,298 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-20 22:58:22,298 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-21 21:51:29,562 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-21 21:51:29,567 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-21 21:51:29,568 - __main__ - INFO - Trying 3 patterns...
+2025-01-21 21:51:29,568 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-21 21:51:29,570 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-21 22:59:36,699 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-21 22:59:36,701 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Maldives
+2025-01-21 22:59:36,701 - __main__ - INFO - Trying 3 patterns...
+2025-01-21 22:59:36,702 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-21 22:59:36,704 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Maldives
+2025-01-22 12:19:53,748 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 12:19:53,752 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 12:19:53,752 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 12:19:53,755 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 12:19:53,757 - __main__ - INFO - Match found! Hotel: Taj Village Resort, Location: Goa
+2025-01-22 12:25:22,509 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 12:25:22,514 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 12:25:22,514 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 12:25:22,514 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 12:25:22,515 - __main__ - INFO - Match found! Hotel: Taj Village Resort, Location: Goa
+2025-01-22 12:29:52,799 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 12:29:52,799 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 12:29:52,800 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 12:29:52,800 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 12:29:52,800 - __main__ - INFO - Match found! Hotel: Taj Fort Aguada, Location: Goa
+2025-01-22 12:38:19,265 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Vivanta Resort in Goa
+2025-01-22 12:38:19,266 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Vivanta Resort in Goa
+2025-01-22 12:38:19,268 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 12:38:19,269 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 12:38:19,270 - __main__ - INFO - Match found! Hotel: Taj Vivanta Resort, Location: Goa
+2025-01-22 20:24:21,111 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 20:24:21,114 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Village Resort in Goa
+2025-01-22 20:24:21,115 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 20:24:21,115 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 20:24:21,117 - __main__ - INFO - Match found! Hotel: Taj Village Resort, Location: Goa
+2025-01-22 20:43:00,369 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 20:43:00,369 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 20:43:00,370 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 20:43:00,370 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 20:43:00,371 - __main__ - INFO - Match found! Hotel: Taj Fort Aguada, Location: Goa
+2025-01-22 20:53:36,216 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 20:53:36,219 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Fort Aguada in Goa
+2025-01-22 20:53:36,219 - __main__ - INFO - Trying 3 patterns...
+2025-01-22 20:53:36,220 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-22 20:53:36,220 - __main__ - INFO - Match found! Hotel: Taj Fort Aguada, Location: Goa
+2025-01-23 11:55:51,568 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Village Resort in Goa
+2025-01-23 11:55:51,570 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Village Resort in Goa
+2025-01-23 11:55:51,570 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 11:55:51,571 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 11:55:51,573 - __main__ - INFO - Match found! Hotel: Taj Village Resort, Location: Goa
+2025-01-23 15:57:07,537 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 15:57:07,544 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 15:57:07,546 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 15:57:07,546 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 15:57:07,550 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Himachal
+2025-01-23 16:03:14,487 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 16:03:14,487 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 16:03:14,488 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 16:03:14,489 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 16:03:14,490 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Himachal
+2025-01-23 16:09:26,197 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 16:09:26,198 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Sunset Paradise Resort in Himachal
+2025-01-23 16:09:26,199 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 16:09:26,200 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 16:09:26,201 - __main__ - INFO - Match found! Hotel: Sunset Paradise Resort, Location: Himachal
+2025-01-23 19:14:50,383 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Westin Resort in Goa
+2025-01-23 19:14:50,388 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Westin Resort in Goa
+2025-01-23 19:14:50,389 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 19:14:50,389 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 19:14:50,390 - __main__ - INFO - Match found! Hotel: Westin Resort, Location: Goa
+2025-01-23 19:17:05,244 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Westin Resort in Himachal Pradesh
+2025-01-23 19:17:05,245 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Westin Resort in Himachal Pradesh
+2025-01-23 19:17:05,245 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 19:17:05,246 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 19:17:05,246 - __main__ - INFO - Match found! Hotel: Westin Resort, Location: Himachal
+2025-01-23 19:17:24,513 - __main__ - ERROR - Unexpected error: 'SinglePageBrochureGenerator' object has no attribute 'get_fallback_description'
+2025-01-23 19:17:24,514 - __main__ - ERROR - Error type: <class 'AttributeError'>
+2025-01-23 19:26:11,469 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Westin Resort in Himachal Pradesh
+2025-01-23 19:26:11,472 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Westin Resort in Himachal Pradesh
+2025-01-23 19:26:11,472 - __main__ - INFO - Trying 3 patterns...
+2025-01-23 19:26:11,472 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-01-23 19:26:11,474 - __main__ - INFO - Match found! Hotel: Westin Resort, Location: Himachal
+2025-02-13 23:40:35,686 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:40:35,691 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:40:35,691 - __main__ - INFO - Trying 3 patterns...
+2025-02-13 23:40:35,691 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-13 23:40:35,693 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-13 23:44:51,449 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:44:51,451 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:44:51,451 - __main__ - INFO - Trying 3 patterns...
+2025-02-13 23:44:51,452 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-13 23:44:51,454 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-13 23:47:26,340 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:47:26,341 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:47:26,341 - __main__ - INFO - Trying 3 patterns...
+2025-02-13 23:47:26,342 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-13 23:47:26,342 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-13 23:51:32,663 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:51:32,668 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:51:32,670 - __main__ - INFO - Trying 3 patterns...
+2025-02-13 23:51:32,670 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-13 23:51:32,673 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-13 23:58:54,081 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:58:54,087 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-13 23:58:54,088 - __main__ - INFO - Trying 3 patterns...
+2025-02-13 23:58:54,089 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-13 23:58:54,091 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:17:57,044 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:17:57,047 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:17:57,048 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 00:17:57,048 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 00:17:57,049 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:35:35,176 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:35:35,178 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:35:35,179 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 00:35:35,179 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 00:35:35,182 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:43:52,603 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:43:52,604 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:43:52,605 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 00:43:52,605 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 00:43:52,606 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:46:42,508 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:46:42,509 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:46:42,509 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 00:46:42,510 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 00:46:42,511 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:50:34,314 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:50:34,320 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Mayan Beach Club in Goa
+2025-02-14 00:50:34,321 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 00:50:34,321 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 00:50:34,322 - __main__ - INFO - Match found! Hotel: Mayan Beach Club, Location: Goa
+2025-02-14 00:51:19,589 - __main__ - ERROR - Error during image generation: Failed to generate images: exterior, room, restaurant
+2025-02-14 00:51:19,591 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-02-14 00:51:19,591 - __main__ - ERROR - Unexpected error: 
+2025-02-14 00:51:19,592 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-02-14 11:27:24,652 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Purple Martini Club in Goa
+2025-02-14 11:27:24,654 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Purple Martini Club in Goa
+2025-02-14 11:27:24,654 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 11:27:24,655 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 11:27:24,657 - __main__ - INFO - Match found! Hotel: Purple Martini Club, Location: Goa
+2025-02-14 11:29:21,611 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Purple Martini Club in Goa
+2025-02-14 11:29:21,613 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Purple Martini Club in Goa
+2025-02-14 11:29:21,614 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 11:29:21,615 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 11:29:21,615 - __main__ - INFO - Match found! Hotel: Purple Martini Club, Location: Goa

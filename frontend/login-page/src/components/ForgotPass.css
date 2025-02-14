@@ -1,0 +1,210 @@
+/* ForgotPass.css */
+
+.forgot-password-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  padding: 1rem;
+}
+
+.forgot-password-container::before {
+  content: '';
+  position: absolute;
+  width: 150%;
+  height: 150%;
+  background: radial-gradient(circle at center, rgba(167, 127, 17, 0.15) 0%, transparent 60%);
+  animation: gradientMove 15s infinite linear;
+  pointer-events: none;
+  z-index: 1;
+}
+
+@keyframes gradientMove {
+  0% { transform: translate(-25%, -25%) rotate(0deg); }
+  100% { transform: translate(-25%, -25%) rotate(360deg); }
+}
+
+.forgot-password-box {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 20px;
+  padding: 2rem;
+  width: 90%;
+  max-width: 500px;
+  min-height: 400px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  position: relative;
+  overflow: hidden;
+  backdrop-filter: blur(10px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  z-index: 2;
+}
+
+.forgot-password-content {
+  width: 100%;
+  max-width: 400px;
+  z-index: 1;
+  text-align: center;
+}
+
+.watermark {
+  position: absolute;
+  font-size: 8rem;
+  font-weight: bold;
+  color: rgba(167, 127, 17, 0.1);
+  pointer-events: none;
+  user-select: none;
+  animation: watermarkPulse 2s ease-in-out infinite alternate;
+  z-index: 0;
+}
+
+@keyframes watermarkPulse {
+  from { opacity: 0.1; }
+  to { opacity: 0.2; }
+}
+
+h2 {
+  color: rgba(167, 127, 17, 1);
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.forgot-password-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.input-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: left;
+}
+
+label {
+  color: rgba(167, 127, 17, 1);
+  font-size: 0.9rem;
+}
+
+.input-field {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px solid rgba(167, 127, 17, 0.3);
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 16px;
+  transition: all 0.3s ease;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: rgba(167, 127, 17, 0.8);
+  box-shadow: 0 0 0 2px rgba(167, 127, 17, 0.2);
+}
+
+.reset-button {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 8px;
+  border: none;
+  background: rgba(167, 127, 17, 0.8);
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.reset-button:hover {
+  background: rgba(167, 127, 17, 1);
+}
+
+.back-to-login {
+  margin-top: 1rem;
+  color: rgba(167, 127, 17, 0.8);
+  cursor: pointer;
+  transition: color 0.3s ease;
+}
+
+.back-to-login:hover {
+  color: rgba(167, 127, 17, 1);
+}
+
+.message {
+  padding: 0.8rem;
+  border-radius: 8px;
+  font-size: 0.9rem;
+}
+
+.message.success {
+  background: rgba(75, 181, 67, 0.2);
+  border: 1px solid rgba(75, 181, 67, 0.4);
+  color: #4bb543;
+}
+
+.message.error {
+  background: rgba(255, 76, 76, 0.2);
+  border: 1px solid rgba(255, 76, 76, 0.4);
+  color: #ff4c4c;
+}
+
+@media screen and (max-width: 768px) {
+  .forgot-password-box {
+    width: 95%;
+    min-height: auto;
+    padding: 1.5rem;
+  }
+
+  .forgot-password-content {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .watermark {
+    font-size: 6rem;
+  }
+
+  h2 {
+    font-size: 1.8rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .forgot-password-container {
+    padding: 0.5rem;
+  }
+
+  .forgot-password-box {
+    width: 100%;
+    padding: 1rem;
+  }
+
+  .forgot-password-content {
+    padding: 0.5rem;
+  }
+
+  .watermark {
+    font-size: 4rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .input-field {
+    padding: 0.8rem;
+    font-size: 14px;
+  }
+
+  .reset-button {
+    padding: 0.8rem;
+    font-size: 14px;
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "8fee562f-3ea4-4640-8a7e-f56017518193",
+  "hotelName": "Azure Paradise Resort",
+  "description": "Generate a brochure for The Azure Paradise Resort, a luxurious beachfront sanctuary in the Maldives, featuring overwater villas with private infinity pools, underwater restaurant, and world-class spa facilities. The resort combines traditional Maldivian architecture with modern luxury, offering unparalleled views of the Indian Ocean and direct access to pristine coral reefs.",
+  "generatedContent": "The Azure Paradise Resort is a luxurious beachfront sanctuary in the Maldives, featuring overwater villas with private infinity pools, underwater restaurant, and world-class spa facilities. The resort combines traditional Maldivian architecture with modern luxury, offering unparalleled views of the Indian Ocean and direct access to pristine coral reefs.",
+  "imagePath": null,
+  "createdAt": "2024-12-22T20:32:32.961768",
+  "customPrompts": {
+    "style": "modern luxury"
+  }
+}

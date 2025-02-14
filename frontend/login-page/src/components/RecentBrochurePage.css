@@ -1,0 +1,206 @@
+.recent-brochures-page {
+  min-height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(135deg, rgba(167, 127, 17, 0.1), rgba(255, 215, 94, 0.1));
+  color: rgba(167, 127, 17, 0.9);
+}
+
+.page-header {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.page-header h1 {
+  font-family: 'Cinzel', serif;
+  font-size: 2.5rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  color: rgba(167, 127, 17, 1);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.page-header p {
+  font-size: 1.2rem;
+  color: rgba(167, 127, 17, 0.8);
+}
+
+.brochures-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+.brochure-card {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(167, 127, 17, 0.2);
+  border-radius: 20px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+}
+
+.brochure-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 40px rgba(167, 127, 17, 0.15);
+}
+
+.brochure-preview {
+  height: 250px;
+  overflow: hidden;
+}
+
+.brochure-preview img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.brochure-card:hover .brochure-preview img {
+  transform: scale(1.05);
+}
+
+.brochure-details {
+  padding: 1.5rem;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.brochure-details h3 {
+  font-family: 'Cinzel', serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin: 0 0 0.5rem 0;
+  color: rgba(167, 127, 17, 1);
+}
+
+.location {
+  color: rgba(167, 127, 17, 0.8);
+  font-size: 1rem;
+  margin: 0.5rem 0;
+}
+
+.date {
+  color: rgba(167, 127, 17, 0.6);
+  font-size: 0.875rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.brochure-actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.view-button,
+.download-button {
+  flex: 1;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  font-weight: 500;
+  transition: all 0.3s ease;
+  border: 1px solid rgba(167, 127, 17, 0.3);
+}
+
+.view-button {
+  background: rgba(167, 127, 17, 0.1);
+  color: rgba(167, 127, 17, 1);
+}
+
+.download-button {
+  background: rgba(167, 127, 17, 1);
+  color: white;
+}
+
+.view-button:hover {
+  background: rgba(167, 127, 17, 0.2);
+  border-color: rgba(167, 127, 17, 0.5);
+}
+
+.download-button:hover {
+  background: rgba(167, 127, 17, 0.9);
+  transform: translateY(-2px);
+}
+
+/* Loading State */
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+}
+
+.spinner {
+  width: 50px;
+  height: 50px;
+  border: 3px solid rgba(167, 127, 17, 0.1);
+  border-radius: 50%;
+  border-top-color: rgba(167, 127, 17, 1);
+  animation: spin 1s linear infinite;
+  margin-bottom: 1rem;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Error State */
+.error {
+  text-align: center;
+  padding: 2rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  border: 1px solid rgba(167, 127, 17, 0.2);
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.error h2 {
+  color: #e74c3c;
+  margin-bottom: 1rem;
+}
+
+.retry-button {
+  background: rgba(167, 127, 17, 1);
+  color: white;
+  border: none;
+  padding: 0.75rem 2rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.retry-button:hover {
+  background: rgba(167, 127, 17, 0.9);
+  transform: translateY(-2px);
+}
+
+/* No Brochures State */
+.no-brochures {
+  text-align: center;
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  border: 1px solid rgba(167, 127, 17, 0.2);
+  max-width: 600px;
+  margin: 2rem auto;
+}
+
+.no-brochures h2 {
+  color: rgba(167, 127, 17, 1);
+  margin-bottom: 1rem;
+  font-family: 'Cinzel', serif;
+}
+
+.no-brochures p {
+  color: rgba(167, 127, 17, 0.8);
+}

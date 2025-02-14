@@ -1,0 +1,59 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* src/index.css */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h2 {
+  transition: color 0.3s ease;
+}
+
+h2:hover {
+  color: #3b82f6; /* Tailwind's blue-500 */
+}
+
+a {
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: #3b82f6; /* Tailwind's blue-500 */
+}
+
+/* Add this to your index.css or a new CSS file */
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.bg-gradient-animation {
+  background: linear-gradient(270deg, #6a11cb, #2575fc);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+body {
+  background-image: url('https://images.unsplash.com/photo-1561486865605-4d73d97e9b25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDd8fGFic3RyYWN0JTIwYmFja2dyb3VuZCUyMGJsdXIlMjBjb2xvcnxlbnwwfHx8fDE2MDU5NTUzMjY&ixlib=rb-1.2.1&q=80&w=1080');
+  background-size: cover;
+  background-position: center;
+}
+
+
+
