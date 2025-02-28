@@ -44,14 +44,6 @@ const LandingPage = () => {
     }
   }, []);
 
-  useEffect(() => {
-    const menuWasOpen = localStorage.getItem('menuWasOpen');
-    if (menuWasOpen === 'true') {
-      setIsMenuOpen(true);
-      localStorage.removeItem('menuWasOpen');
-    }
-  }, []);
-
   const toggleMenu = () => {
     setIsMenuOpen((prev) => !prev);
   };
@@ -71,8 +63,6 @@ const LandingPage = () => {
   }, [isMenuOpen]);
 
   const handleMenuItemClick = (item) => {
-    // Store menu state in localStorage before navigating
-    localStorage.setItem('menuWasOpen', 'true');
     setIsMenuOpen(false);
     switch(item.title) {
       case 'Generate Brochure':

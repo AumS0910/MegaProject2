@@ -1,9 +1,9 @@
-import api from './api';
+import { authApi } from './api';
 
 export const authAPI = {
     login: async (email, password) => {
         try {
-            const response = await api.post('/auth/login', {
+            const response = await authApi.post('/auth/login', {
                 email,
                 password
             });
@@ -22,7 +22,7 @@ export const authAPI = {
                 localStorage.setItem('user', JSON.stringify(userData));
                 
                 // Set the token in axios defaults
-                api.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
+                authApi.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
                 return userData;
             }
             throw new Error('Invalid response format');
@@ -39,7 +39,7 @@ export const authAPI = {
 
     register: async (userData) => {
         try {
-            const response = await api.post('/auth/signup', {
+            const response = await authApi.post('/auth/signup', {
                 ...userData,
                 createdDate: new Date().toISOString()
             });
@@ -56,11 +56,12 @@ export const authAPI = {
                 localStorage.setItem('token', `Bearer ${response.data.accessToken}`);
                 localStorage.setItem('user', JSON.stringify(userDataWithDates));
                 
-                api.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
+                authApi.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
                 return userDataWithDates;
             }
             throw new Error('Invalid response format');
         } catch (error) {
+            console.error('Registration error:', error);
             throw error.response?.data?.message || 'Registration failed';
         }
     },
@@ -88,7 +89,7 @@ export const authAPI = {
     // Google OAuth login
     googleLogin: async (credential) => {
         try {
-            const response = await api.post('/auth/google', { credential });
+            const response = await authApi.post('/auth/google', { credential });
             
             if (response.data.accessToken) {
                 const userData = {
@@ -102,7 +103,7 @@ export const authAPI = {
                 localStorage.setItem('token', `Bearer ${response.data.accessToken}`);
                 localStorage.setItem('user', JSON.stringify(userData));
                 
-                api.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
+                authApi.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
                 return userData;
             }
             throw new Error('Invalid response format');
@@ -115,7 +116,7 @@ export const authAPI = {
     // Facebook OAuth login
     facebookLogin: async (accessToken) => {
         try {
-            const response = await api.post('/auth/facebook', { accessToken });
+            const response = await authApi.post('/auth/facebook', { accessToken });
             
             if (response.data.accessToken) {
                 const userData = {
@@ -129,7 +130,7 @@ export const authAPI = {
                 localStorage.setItem('token', `Bearer ${response.data.accessToken}`);
                 localStorage.setItem('user', JSON.stringify(userData));
                 
-                api.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
+                authApi.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
                 return userData;
             }
             throw new Error('Invalid response format');

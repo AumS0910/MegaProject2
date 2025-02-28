@@ -1,24 +1,36 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8009';  // Changed from 8080 to 8009
+// API base URLs
+const TRIFOLD_API_URL = 'http://localhost:8009';  // For brochure generation
+const AUTH_API_URL = 'http://localhost:8080';     // For authentication
 
 // Create axios instance with default config
 const api = axios.create({
-    baseURL: API_BASE_URL,
+    baseURL: TRIFOLD_API_URL,  // Default to trifold API
+    headers: {
+        'Content-Type': 'application/json',
+    },
+});
+
+// Create auth API instance
+export const authApi = axios.create({
+    baseURL: AUTH_API_URL,
     headers: {
         'Content-Type': 'application/json',
     },
 });
 
 // Add token to requests
-api.interceptors.request.use((config) => {
+const addAuthToken = (config) => {
     const token = localStorage.getItem('token');
     if (token) {
-        // Don't add Bearer prefix if it's already there
         config.headers.Authorization = token;
     }
     return config;
-});
+};
+
+api.interceptors.request.use(addAuthToken);
+authApi.interceptors.request.use(addAuthToken);
 
 // Add response interceptor for error handling
 api.interceptors.response.use(
@@ -35,12 +47,12 @@ api.interceptors.response.use(
 // Helper functions for image and brochure URLs
 const getImageUrl = (imagePath) => {
     if (!imagePath) return 'https://via.placeholder.com/400x300?text=No+Preview';
-    return `${API_BASE_URL}/images/${imagePath}`;
+    return `${TRIFOLD_API_URL}/images/${imagePath}`;
 };
 
 const getBrochureUrl = (brochurePath) => {
     if (!brochurePath) return '#';
-    return `${API_BASE_URL}/brochures/${brochurePath}`;
+    return `${TRIFOLD_API_URL}/brochures/${brochurePath}`;
 };
 
 // User Profile API endpoints
@@ -48,7 +60,7 @@ export const userAPI = {
     // Get user profile
     getUserProfile: async () => {
         try {
-            const response = await api.get('/api/user/profile');
+            const response = await authApi.get('/api/user/profile');
             return response.data;
         } catch (error) {
             console.error('Error fetching user profile:', error);
@@ -59,7 +71,7 @@ export const userAPI = {
     // Update user profile
     updateUserProfile: async (data) => {
         try {
-            const response = await api.put('/api/user/profile', data);
+            const response = await authApi.put('/api/user/profile', data);
             return response.data;
         } catch (error) {
             console.error('Error updating user profile:', error);
@@ -131,7 +143,7 @@ export const brochureAPI = {
     generateBrochureFromPrompt: async (data) => {
         try {
             const response = await axios.post(
-                `${API_BASE_URL}/generate-brochure-from-prompt`,
+                `${TRIFOLD_API_URL}/generate-brochure-from-prompt`,
                 data,
                 {
                     headers: {

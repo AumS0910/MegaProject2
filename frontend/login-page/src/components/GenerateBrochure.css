@@ -1582,25 +1582,3 @@ form {
 .full-bleed-preview {
   background-image: linear-gradient(180deg, #f8f9fa 50%, #ffffff 50%);
 }
-
-.back-button {
-  position: absolute;
-  top: 20px;
-  left: 20px;
-  background: rgba(255, 255, 255, 0.9);
-  border: none;
-  border-radius: 5px;
-  padding: 10px 20px;
-  font-size: 1rem;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  transition: all 0.3s ease;
-  z-index: 1000;
-}
-
-.back-button:hover {
-  background: rgba(255, 255, 255, 1);
-  transform: translateX(-5px);
-}

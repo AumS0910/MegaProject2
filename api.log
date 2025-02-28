@@ -1911,3 +1911,10 @@ Extracting hotel info from prompt: Generate a brochure for Taj Hotel in Delhi
 2025-02-15 19:54:16,232 - __main__ - INFO - Trying 3 patterns...
 2025-02-15 19:54:16,233 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
 2025-02-15 19:54:16,236 - __main__ - INFO - Match found! Hotel: Taj Hotel, Location: Delhi
+2025-02-28 14:08:39,115 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Grand Hyatt Resort in Goa
+2025-02-28 14:08:39,124 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Grand Hyatt Resort in Goa
+2025-02-28 14:08:39,125 - __main__ - INFO - Trying 3 patterns...
+2025-02-28 14:08:39,126 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-28 14:08:39,130 - __main__ - INFO - Match found! Hotel: Grand Hyatt Resort, Location: Goa

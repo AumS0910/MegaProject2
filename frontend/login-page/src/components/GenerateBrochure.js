@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { brochureAPI } from '../services/api';
 import RecentBrochures from './RecentBrochures';
-import { useNavigate } from 'react-router-dom';
 import './GenerateBrochure.css';
 
 // Background images for parallax effect
@@ -12,7 +11,6 @@ const bgImages = [
 ];
 
 function GenerateBrochure() {
-  const navigate = useNavigate();
   const [prompt, setPrompt] = useState('');
   const [layout, setLayout] = useState('trifold');
   const [status, setStatus] = useState('idle');
@@ -225,15 +223,6 @@ function GenerateBrochure() {
         transition: 'background-image 1s ease-in-out'
       }}
     >
-      <button 
-        className="back-button" 
-        onClick={() => {
-          localStorage.setItem('menuWasOpen', 'true');
-          navigate('/');
-        }}
-      >
-        ← Back
-      </button>
       <div className="content-overlay">
         <h1 className="title">AI BROCHURE GENERATOR</h1>
         

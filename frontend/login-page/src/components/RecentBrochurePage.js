@@ -1,13 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { brochureAPI } from '../services/api';
-import { useNavigate } from 'react-router-dom';
 import './RecentBrochurePage.css';
 
 function RecentBrochurePage() {
   const [brochures, setBrochures] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const navigate = useNavigate();
 
   useEffect(() => {
     fetchRecentBrochures();
@@ -69,7 +67,6 @@ function RecentBrochurePage() {
   return (
     <div className="recent-brochures-page">
       <div className="page-header">
-        
         <h1>Your Recent Brochures</h1>
         <p>View and manage your recently created brochures</p>
       </div>
