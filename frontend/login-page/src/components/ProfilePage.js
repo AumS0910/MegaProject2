@@ -42,12 +42,28 @@ function ProfilePage() {
             // Fetch recent brochures
             const brochuresResponse = await brochureAPI.getRecentBrochures();
             
+            // Get current date for last login
+            const currentDate = new Date().toISOString();
+            
+            // For existing accounts, preserve the original creation date
+            // If no creation date exists, use January 1, 2024 as a default
+            const defaultCreationDate = '2024-01-01T00:00:00.000Z';
+            const memberSince = storedUser.createdDate || defaultCreationDate;
+            
+            // Update last login in local storage while preserving other data
+            const updatedUser = {
+                ...storedUser,
+                lastLoginDate: currentDate,
+                createdDate: memberSince // Ensure we preserve the creation date
+            };
+            localStorage.setItem('user', JSON.stringify(updatedUser));
+            
             setUserData({
                 name: storedUser.name || '',
                 email: storedUser.email || '',
                 totalBrochures: brochuresResponse?.length || 0,
-                lastLogin: storedUser.lastLoginDate || new Date().toISOString(),
-                memberSince: storedUser.createdDate || new Date().toISOString(),
+                lastLogin: currentDate,
+                memberSince: memberSince,
                 recentBrochures: brochuresResponse || []
             });
 

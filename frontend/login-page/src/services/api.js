@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:8080';  // Changed from 8006 to 8080
+const API_BASE_URL = 'http://localhost:8009';  // Changed from 8080 to 8009
 
 // Create axios instance with default config
 const api = axios.create({
@@ -32,6 +32,17 @@ api.interceptors.response.use(
     }
 );
 
+// Helper functions for image and brochure URLs
+const getImageUrl = (imagePath) => {
+    if (!imagePath) return 'https://via.placeholder.com/400x300?text=No+Preview';
+    return `${API_BASE_URL}/images/${imagePath}`;
+};
+
+const getBrochureUrl = (brochurePath) => {
+    if (!brochurePath) return '#';
+    return `${API_BASE_URL}/brochures/${brochurePath}`;
+};
+
 // User Profile API endpoints
 export const userAPI = {
     // Get user profile
@@ -59,6 +70,25 @@ export const userAPI = {
 
 // Brochure API endpoints
 export const brochureAPI = {
+    // Get recent brochures
+    getRecentBrochures: async (limit = 10) => {
+        try {
+            const response = await api.get('/recent-brochures', { 
+                params: { limit } 
+            });
+            
+            // Transform the response to include full URLs
+            return response.data.map(brochure => ({
+                ...brochure,
+                exteriorImage: getImageUrl(brochure.exteriorImage),
+                filePath: getBrochureUrl(brochure.filePath)
+            }));
+        } catch (error) {
+            console.error('Error fetching recent brochures:', error);
+            throw error;
+        }
+    },
+
     // Generate a new brochure
     generateBrochure: async (data) => {
         try {
@@ -83,7 +113,11 @@ export const brochureAPI = {
                 status = statusResponse.data.status;
                 
                 if (status === 'completed') {
-                    return statusResponse.data;
+                    return {
+                        ...statusResponse.data,
+                        filePath: getBrochureUrl(statusResponse.data.filePath),
+                        exteriorImage: getImageUrl(statusResponse.data.exteriorImage)
+                    };
                 } else if (status === 'failed') {
                     throw new Error('Brochure generation failed');
                 }
@@ -105,7 +139,11 @@ export const brochureAPI = {
                     }
                 }
             );
-            return response.data;
+            return {
+                ...response.data,
+                filePath: getBrochureUrl(response.data.filePath),
+                exteriorImage: getImageUrl(response.data.exteriorImage)
+            };
         } catch (error) {
             throw new Error(error.response?.data?.detail || 'Failed to generate brochure');
         }
@@ -115,33 +153,14 @@ export const brochureAPI = {
     getBrochurePreview: async (taskId) => {
         try {
             const response = await api.get(`/task-status/${taskId}`);
-            return response.data;
+            return {
+                ...response.data,
+                filePath: getBrochureUrl(response.data.filePath),
+                exteriorImage: getImageUrl(response.data.exteriorImage)
+            };
         } catch (error) {
             console.error('Get preview error:', error);
             throw error.response?.data?.message || 'Failed to get preview';
-        }
-    },
-
-    // Get recent brochures
-    getRecentBrochures: async (limit = 10) => {
-        try {
-            const token = localStorage.getItem('token');
-            const response = await axios.get(`${API_BASE_URL}/api/brochures/recent?limit=${limit}`, {
-                headers: {
-                    'Content-Type': 'application/json',
-                    'Authorization': token
-                },
-                withCredentials: true
-            });
-            return response.data;
-        } catch (error) {
-            console.error('Get recent brochures error:', error);
-            if (error.response?.status === 401 || error.response?.status === 403) {
-                // Token expired or invalid, redirect to login
-                localStorage.clear();
-                window.location.href = '/LoginPage';
-            }
-            throw error.response?.data?.message || 'Failed to fetch recent brochures';
         }
     },
 

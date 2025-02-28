@@ -1732,3 +1732,182 @@ Extracting hotel info from prompt: Generate a brochure for Purple Martini Club i
 2025-02-14 11:29:21,614 - __main__ - INFO - Trying 3 patterns...
 2025-02-14 11:29:21,615 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
 2025-02-14 11:29:21,615 - __main__ - INFO - Match found! Hotel: Purple Martini Club, Location: Goa
+2025-02-14 12:06:23,835 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Raeeth Club in Goa
+2025-02-14 12:06:23,837 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Raeeth Club in Goa
+2025-02-14 12:06:23,837 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 12:06:23,838 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 12:06:23,839 - __main__ - INFO - Match found! Hotel: Raeeth Club, Location: Goa
+2025-02-14 12:42:32,635 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Raeeth Club in Goa
+2025-02-14 12:42:32,640 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Raeeth Club in Goa
+2025-02-14 12:42:32,641 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 12:42:32,642 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 12:42:32,644 - __main__ - INFO - Match found! Hotel: Raeeth Club, Location: Goa
+2025-02-14 13:30:55,315 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 13:30:55,319 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 13:30:55,319 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 13:30:55,320 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 13:30:55,321 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 13:32:05,993 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 13:32:05,994 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 13:32:05,994 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 13:32:05,995 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 13:32:05,996 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 13:52:48,367 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 13:52:48,371 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 13:52:48,372 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 13:52:48,373 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 13:53:00,709 - __main__ - ERROR - Error generating brochure: 
+2025-02-14 13:53:00,712 - __main__ - ERROR - Error generating brochure from prompt: 
+2025-02-14 14:03:59,134 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 14:03:59,138 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:03:59,138 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:03:59,139 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 14:04:17,323 - __main__ - ERROR - Error generating brochure: 
+2025-02-14 14:04:17,324 - __main__ - ERROR - Error generating brochure from prompt: 
+2025-02-14 14:07:43,738 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 14:07:43,740 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:07:43,741 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:07:43,741 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 14:08:15,509 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 14:08:15,510 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:08:15,510 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:08:15,512 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 14:09:02,643 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 14:09:02,644 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:09:02,645 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:09:02,645 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 14:13:46,951 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Raddison Blue hotel in Manali
+2025-02-14 14:13:46,953 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:13:46,954 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:13:46,954 - __main__ - INFO - Match found! Hotel: Raddison Blue hotel, Location: Manali
+2025-02-14 14:17:48,904 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:17:48,906 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:17:48,907 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:17:48,911 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:18:57,406 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:18:57,409 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:18:57,410 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:18:57,412 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:23:48,415 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:23:48,419 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:23:48,420 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:23:48,421 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:25:22,758 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:25:22,759 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:25:22,759 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:25:22,760 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:26:57,975 - __main__ - INFO - Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:26:57,979 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:26:57,979 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:26:57,980 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:28:57,485 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:28:57,488 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:28:57,488 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:28:57,489 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:33:19,476 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:33:19,479 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:33:19,480 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:33:19,481 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 14:33:58,317 - __main__ - ERROR - Error generating brochure: 
+2025-02-14 14:33:58,318 - __main__ - ERROR - Error generating brochure from prompt: 
+2025-02-14 14:35:21,254 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:35:21,259 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue hotel in Goa
+2025-02-14 14:35:21,260 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 14:35:21,260 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 14:35:21,263 - __main__ - INFO - Match found! Hotel: Radison Blue hotel, Location: Goa
+2025-02-14 17:53:54,164 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue in Manali
+2025-02-14 17:53:54,168 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 17:53:54,168 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 17:53:54,170 - __main__ - INFO - Match found! Hotel: Radison Blue, Location: Manali
+2025-02-14 17:54:14,735 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'save_brochure'
+2025-02-14 17:59:07,083 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue in Manali
+2025-02-14 17:59:07,087 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 17:59:07,087 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 17:59:07,089 - __main__ - INFO - Match found! Hotel: Radison Blue, Location: Manali
+2025-02-14 17:59:23,958 - __main__ - ERROR - Error generating brochure: 'SinglePageBrochureGenerator' object has no attribute 'save_brochure'
+2025-02-14 18:01:12,511 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Radison Blue in Manali
+2025-02-14 18:01:12,514 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Radison Blue in Manali
+2025-02-14 18:01:12,514 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 18:01:12,516 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 18:01:12,519 - __main__ - INFO - Match found! Hotel: Radison Blue, Location: Manali
+2025-02-14 19:02:55,704 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Novotel Resort in Maldives
+2025-02-14 19:02:55,709 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Novotel Resort in Maldives
+2025-02-14 19:02:55,709 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 19:02:55,710 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 19:02:55,711 - __main__ - INFO - Match found! Hotel: Novotel Resort, Location: Maldives
+2025-02-14 19:17:44,325 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Digvijay Resort in Goa
+2025-02-14 19:17:44,332 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Digvijay Resort in Goa
+2025-02-14 19:17:44,332 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 19:17:44,334 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 19:17:44,339 - __main__ - INFO - Match found! Hotel: Digvijay Resort, Location: Goa
+2025-02-14 19:19:56,425 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Digvijay Resort in Manali
+2025-02-14 19:19:56,426 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Digvijay Resort in Manali
+2025-02-14 19:19:56,427 - __main__ - INFO - Trying 3 patterns...
+2025-02-14 19:19:56,427 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-14 19:19:56,427 - __main__ - INFO - Match found! Hotel: Digvijay Resort, Location: Manali
+2025-02-15 01:49:37,457 - __main__ - INFO - 
+Received prompt request: Generate a brochure for AVATAARA Resort in Bali
+2025-02-15 01:49:37,461 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for AVATAARA Resort in Bali
+2025-02-15 01:49:37,461 - __main__ - INFO - Trying 3 patterns...
+2025-02-15 01:49:37,462 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-15 01:49:37,464 - __main__ - INFO - Match found! Hotel: AVATAARA Resort, Location: Bali
+2025-02-15 01:51:05,144 - __main__ - INFO - 
+Received prompt request: Generate a brochure for AVATAARA Resort in Bali
+2025-02-15 01:51:05,148 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for AVATAARA Resort in Bali
+2025-02-15 01:51:05,149 - __main__ - INFO - Trying 3 patterns...
+2025-02-15 01:51:05,149 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-15 01:51:05,149 - __main__ - INFO - Match found! Hotel: AVATAARA Resort, Location: Bali
+2025-02-15 19:02:17,332 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:02:17,336 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:02:17,337 - __main__ - INFO - Trying 3 patterns...
+2025-02-15 19:02:17,337 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-15 19:02:17,339 - __main__ - INFO - Match found! Hotel: Taj Hotel, Location: Delhi
+2025-02-15 19:02:37,335 - __main__ - ERROR - Error during image generation: Failed to generate images: exterior, room, restaurant
+2025-02-15 19:02:37,335 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-02-15 19:02:37,336 - __main__ - ERROR - Unexpected error: 
+2025-02-15 19:02:37,336 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-02-15 19:05:34,368 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:05:34,369 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:05:34,369 - __main__ - INFO - Trying 3 patterns...
+2025-02-15 19:05:34,369 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-15 19:05:34,370 - __main__ - INFO - Match found! Hotel: Taj Hotel, Location: Delhi
+2025-02-15 19:06:01,629 - __main__ - ERROR - Error during image generation: Failed to generate images: exterior, room, restaurant
+2025-02-15 19:06:01,630 - __main__ - ERROR - Error type: <class 'Exception'>
+2025-02-15 19:06:01,631 - __main__ - ERROR - Unexpected error: 
+2025-02-15 19:06:01,631 - __main__ - ERROR - Error type: <class 'fastapi.exceptions.HTTPException'>
+2025-02-15 19:54:16,229 - __main__ - INFO - 
+Received prompt request: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:54:16,232 - __main__ - INFO - 
+Extracting hotel info from prompt: Generate a brochure for Taj Hotel in Delhi
+2025-02-15 19:54:16,232 - __main__ - INFO - Trying 3 patterns...
+2025-02-15 19:54:16,233 - __main__ - INFO - Trying pattern 1: (?i)generate.*?(?:brochure|flyer).*?for\s+(.*?)\s+in\s+(.*?)(?:\.|$|\s)
+2025-02-15 19:54:16,236 - __main__ - INFO - Match found! Hotel: Taj Hotel, Location: Delhi

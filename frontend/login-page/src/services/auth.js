@@ -43,7 +43,23 @@ export const authAPI = {
                 ...userData,
                 createdDate: new Date().toISOString()
             });
-            return response.data;
+            
+            if (response.data.accessToken) {
+                const userDataWithDates = {
+                    token: response.data.accessToken,
+                    id: response.data.userId,
+                    name: response.data.name,
+                    email: response.data.email,
+                    createdDate: response.data.createdDate,
+                    lastLoginDate: new Date().toISOString()
+                };
+                localStorage.setItem('token', `Bearer ${response.data.accessToken}`);
+                localStorage.setItem('user', JSON.stringify(userDataWithDates));
+                
+                api.defaults.headers.common['Authorization'] = `Bearer ${response.data.accessToken}`;
+                return userDataWithDates;
+            }
+            throw new Error('Invalid response format');
         } catch (error) {
             throw error.response?.data?.message || 'Registration failed';
         }

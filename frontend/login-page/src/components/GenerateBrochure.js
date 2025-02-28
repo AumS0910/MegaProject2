@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { brochureAPI } from '../services/api';
 import RecentBrochures from './RecentBrochures';
+import { useNavigate } from 'react-router-dom';
 import './GenerateBrochure.css';
 
 // Background images for parallax effect
@@ -11,6 +12,7 @@ const bgImages = [
 ];
 
 function GenerateBrochure() {
+  const navigate = useNavigate();
   const [prompt, setPrompt] = useState('');
   const [layout, setLayout] = useState('trifold');
   const [status, setStatus] = useState('idle');
@@ -66,6 +68,35 @@ function GenerateBrochure() {
     return beforeIn.split(' ').slice(0, 4).join(' ');
   };
 
+  const parsePromptWithNLP = async (prompt) => {
+    try {
+      const response = await fetch('http://localhost:8010/parse-prompt', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ prompt })
+      });
+
+      if (!response.ok) {
+        throw new Error('NLP parsing failed');
+      }
+
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.warn('NLP parsing failed, falling back to regex:', error);
+      // Fallback to regex parsing
+      const hotelName = extractHotelNameFromPrompt(prompt);
+      const location = prompt.split(' in ').length > 1 ? prompt.split(' in ')[1].split(' ')[0] : '';
+      return {
+        hotel_name: hotelName,
+        location: location,
+        confidence: 0.3
+      };
+    }
+  };
+
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!prompt.trim()) return;
@@ -76,13 +107,32 @@ function GenerateBrochure() {
     setGeneratedBrochure(null);
 
     try {
-      const response = await fetch('http://localhost:8006/generate-brochure-from-prompt', {
+      // Parse prompt using NLP with fallback to regex
+      const parsedInfo = await parsePromptWithNLP(prompt);
+      console.log('Parsed prompt info:', parsedInfo);
+
+      // Choose endpoint based on layout
+      const endpoint = layout === 'trifold' 
+        ? 'http://localhost:8009/generate-trifold'
+        : 'http://localhost:8006/generate-brochure-from-prompt';
+
+      const response = await fetch(endpoint, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
           'Accept': 'application/json'
         },
-        body: JSON.stringify({ prompt, layout })
+        body: JSON.stringify(
+          layout === 'trifold' 
+            ? {
+                hotel_name: parsedInfo.hotel_name,
+                location: parsedInfo.location || prompt.split(' in ').pop().split(' ')[0],
+                amenities: null,  // Will use default amenities
+                experience_text: prompt,
+                contact_info: null  // Will use default contact info
+              }
+            : { prompt, layout }
+        )
       });
 
       if (!response.ok) {
@@ -91,7 +141,17 @@ function GenerateBrochure() {
       }
 
       const data = await response.json();
-      if (data.status === 'completed') {
+      
+      if (data.status === 'success' || data.status === 'completed') {
+        // Handle different response formats
+        const filePath = layout === 'trifold'
+          ? data.files.pdf
+          : data.file_path;
+        
+        const brochurePath = layout === 'trifold'
+          ? `http://localhost:8009/brochures/${filePath}`
+          : `http://localhost:8006/brochures/${filePath}`;
+
         // Save to brochure history
         try {
           await fetch('http://localhost:8080/api/brochures/save', {
@@ -103,10 +163,7 @@ function GenerateBrochure() {
             body: JSON.stringify({
               hotelName: data.hotel_name || extractHotelNameFromPrompt(prompt),
               location: data.location || prompt.split(' in ').pop().split(' ')[0],
-              filePath: `http://localhost:8006/brochures/${data.file_path}`,
-              exteriorImage: `http://localhost:8006/images/${data.images.exterior}`,
-              roomImage: `http://localhost:8006/images/${data.images.room}`,
-              restaurantImage: `http://localhost:8006/images/${data.images.restaurant}`,
+              filePath: brochurePath,
               prompt: prompt
             })
           });
@@ -117,12 +174,7 @@ function GenerateBrochure() {
         setStatus('completed');
         setStatusMessage('Brochure generated successfully!');
         setGeneratedBrochure({
-          brochurePath: `http://localhost:8006/brochures/${data.file_path}`,
-          images: {
-            exterior: `http://localhost:8006/images/${data.images.exterior}`,
-            room: `http://localhost:8006/images/${data.images.room}`,
-            restaurant: `http://localhost:8006/images/${data.images.restaurant}`
-          }
+          brochurePath: brochurePath
         });
       } else {
         setStatus('error');
@@ -173,6 +225,15 @@ function GenerateBrochure() {
         transition: 'background-image 1s ease-in-out'
       }}
     >
+      <button 
+        className="back-button" 
+        onClick={() => {
+          localStorage.setItem('menuWasOpen', 'true');
+          navigate('/');
+        }}
+      >
+        ← Back
+      </button>
       <div className="content-overlay">
         <h1 className="title">AI BROCHURE GENERATOR</h1>
         
@@ -182,7 +243,7 @@ function GenerateBrochure() {
             <span className="example">Example: "Generate a brochure for Sunset Paradise Resort in Maldives"</span>
           </div>
 
-          <form onSubmit={handleSubmit}>
+          <form onSubmit={handleSubmit} className="generate-form">
             <div className="layout-selector">
               <label>Select Layout:</label>
               <div className="layout-options">
@@ -216,13 +277,17 @@ function GenerateBrochure() {
             </div>
 
             <div className="input-group">
-              <textarea
-                className="prompt-input"
+              <input
+                type="text"
                 value={prompt}
                 onChange={(e) => setPrompt(e.target.value)}
-                placeholder="Enter your hotel description here..."
-                required
+                placeholder="e.g., Generate a brochure for Marriott Hotel in Mumbai"
+                className="prompt-input"
+                aria-label="Hotel brochure prompt"
               />
+              <small className="helper-text">
+                Tip: Include both hotel name and location (e.g., "Taj Hotel in Delhi" or "Hilton Resort Goa")
+              </small>
             </div>
 
             <button 
